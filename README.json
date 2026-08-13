@@ -1,0 +1,252 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Start In 60 Seconds"
+    },
+    {
+      "description": "Move from evidence to implementation through four connected layers:\nFastest build path: name the recurring symptom, inspect its pattern, adapt the linked contract, then choose a runtime for the required persistence, isolation, and permissions.\nBrowse the interactive Resource Atlas, query the structured dataset, or use one of 8 language entry points.\nSee it end to end: the four worked paths cover CI repair, knowledge-base refresh, bounded queue processing, and read-only threshold monitoring, including commands and verifiable completion signals.\nTwo-minute dry run: clone the repository and inspect a bounded queue item without an agent account or extra dependency.",
+      "items": [],
+      "title": "Implementation Kit"
+    },
+    {
+      "description": "Prompt engineering asks: what should I say to the model?\nContext engineering asks: what state and knowledge should the model see?\nHarness engineering asks: what tools, permissions, tests, sandboxes, and feedback should surround the agent?\nLoop engineering asks: what recurring system should discover work, delegate to agents, verify results, persist state, decide next actions, and re-run when the human is no longer in the inner loop?\nPrompt, context, and harness engineering make one agent run better. Loop Engineering makes agent work repeatable, observable, and governable over time.\nLoop shape:",
+      "items": [],
+      "title": "Mental Model"
+    },
+    {
+      "description": "Choose a goal before opening the full catalog. Learn the field through the definition and research foundations; build through a pattern, contract, and runtime; or review reliability through verification, state, security, benchmarks, and critiques.\nFor analysis, the Hugging Face dataset exposes collection, lifecycle, audience, evidence, source-status, publication, and repository-stat facets for every resource.\nFastest conceptual path: read the Working Definition, inspect the Loop Contract, choose a symptom in the Pattern Library, and follow a worked implementation.",
+      "items": [],
+      "title": "Reading Paths"
+    },
+    {
+      "description": "Choosing a loop means choosing the operating policy around an agent, not the model itself. A pull-request loop, deploy loop, and adversarial-testing loop may use the same model, but they need different triggers, permissions, evidence gates, durable state, retry budgets, and human owners. Those controls decide what the agent may do, what counts as success, what the next run can remember, and when automation must stop.\nA generic \"keep trying\" loop collapses those differences. It can retry a judgment call, let the acting model approve its own work, lose evidence between runs, or change a high-risk system when it should only observe and escalate. A named pattern supplies a reviewable starting policy for a recurring job; its contract makes that policy exact for your environment.",
+      "items": [],
+      "title": "Choose Your Loop"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "First Decide Whether The Work Should Loop"
+    },
+    {
+      "description": "Select the pattern for the class of work, adapt its contract to your exact controls, then choose the runtime based on persistence, isolation, and permissions. Start from the problem and its verified finish below, or compare every field in the pattern matrix.\nAfter choosing the pattern, compare runtime persistence, isolation, permissions, and escalation.",
+      "items": [],
+      "title": "Choose In Four Decisions"
+    },
+    {
+      "description": "Loop Engineering is the AI and coding-agent practice of designing recurring systems that discover work, delegate it to agents, verify results, persist state, decide next actions, and run again on a cadence, event, or until a verifiable goal is reached.",
+      "items": [],
+      "title": "Working Definition"
+    },
+    {
+      "description": "These vendor-neutral guides define the concept, boundaries, vocabulary, and reviewable artifacts.",
+      "items": [],
+      "title": "Concept Guides"
+    },
+    {
+      "description": "Open the original work before relying on a summary. Use the contribution, novelty, impact, and evidence fields to compare approaches and understand what supports each entry.",
+      "items": [],
+      "title": "How To Judge Each Source"
+    },
+    {
+      "description": "Every row shows the work and type, its original publishing platform or venue, the contribution that matters for Loop Engineering, and a plain-language evidence label. Author lists are shortened for scanning; the queryable dataset exports and Resource Atlas retain full authorship, dates, venues, identifiers, contribution, novelty, impact, evidence signal, link status, and repository statistics.\nEvidence labels describe the kind of source behind an entry, not its scientific quality. Each label means the same thing on every row, so it is defined once here rather than repeated in the tables; a row carries an extra note only when its link was access-restricted or unavailable at the latest check.",
+      "items": [],
+      "title": "Resource Type Legend"
+    },
+    {
+      "description": "Direct resources about the new AI/coding-agent meaning of Loop Engineering.",
+      "items": [],
+      "title": "Start Here"
+    },
+    {
+      "description": "Model-level recurrence belongs in the map when it explains the model inside an agent: a learned block or latent state is iterated to allocate compute, refine reasoning, or simulate a world. It is an adjacent foundation, not a complete operational loop. The outer system still needs work intake, tools, external verification, durable state, budgets, escalation, and exit.",
+      "items": [],
+      "title": "What Counts As Loop Engineering"
+    },
+    {
+      "description": "A Loop Contract is a reviewable operating specification for one recurring agent job. It is not a legal agreement, a long prompt, or a particular runtime. It records the decisions a person normally supplies during a one-off session - what work is authorized, what the agent may touch, what evidence counts, what survives, and when control returns to a human - so those decisions remain stable across runs.\nThe contract becomes necessary when an agent runs from a schedule, event, queue, or goal instead of waiting for live supervision. Unanswered questions become hidden defaults: the agent may select the wrong work, widen its own scope, approve its own output, forget a previous failure, or retry without a stopping rule. Making the policy explicit lets builders, reviewers, security teams, and operators inspect the same boundaries before the loop acts.\nPrompt, context, and harness choices improve one run. A pattern describes how a class of recurring work should operate. The contract fixes the exact policy for one implementation, and the runtime executes it.",
+      "items": [],
+      "title": "The Loop Contract"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Read It As Three Decisions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Why The Boundaries Matter"
+    },
+    {
+      "description": "Suppose a team wants an agent to keep one pull request moving without asking a person to poll CI and review threads all day. \"Keep this PR moving\" is only a goal; the contract turns it into bounded operation.\nOpen the full , render it with , or browse the 22 schema-checked contracts below.",
+      "items": [],
+      "title": "Worked Example: PR Babysitter"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Loop Design Checklist"
+    },
+    {
+      "description": "The Loop Maturity Model is a capability ladder for one recurring agent workflow. It helps you choose the smallest operating model that can perform a job reliably. The level describes how the workflow is triggered, remembered, verified, divided, and supervised; it does not score model intelligence, team sophistication, or product quality.",
+      "items": [],
+      "title": "Loop Maturity Model"
+    },
+    {
+      "description": "Start with the job, not the target level. Identify the recurring outcome, evidence, risk, and human owner before choosing an architecture.\nTreat levels as cumulative capabilities. A Level 4 loop still needs a bounded trigger and durable state; adding a verifier does not repair missing foundations.\nMove up only for a recurring failure or operating need. Every level adds code, observability, permissions, and maintenance. Stop at the lowest level that meets the job's continuity, evidence, and blast-radius requirements.\nEarn autonomy in order. Persist state before increasing unattended runtime, establish external verification before adding more agents, and add production controls before actions can affect users or infrastructure.\nLevels describe capability, not ambition. Many useful workflows should stop at Level 2 or 3. A dependable Level 3 loop with durable state is more valuable than a Level 5 design with vague goals, weak checks, or ceremonial agent roles.",
+      "items": [],
+      "title": "How To Use The Model"
+    },
+    {
+      "description": "Practical loop patterns translate the abstract contract into runnable operating models. Each pattern documents the trigger, discover/intake step, agents, workspace, state, verification gates, retry budget, escalation path, and loop instruction.",
+      "items": [],
+      "title": "Pattern Library"
+    },
+    {
+      "description": "Feature-level building blocks you assemble a loop from: schedulers, goals, worktrees, hooks, skills, plugins, and protocols.",
+      "items": [],
+      "title": "Core Loop Primitives"
+    },
+    {
+      "description": "End-to-end operating guides and release notes from the runtime vendors themselves: how each platform expects you to run recurring agent work.",
+      "items": [],
+      "title": "Official Runtime Guides"
+    },
+    {
+      "description": "Loop Engineering is new as a practice name, but it builds on years of agent-loop, feedback, planning, and self-correction research.",
+      "items": [],
+      "title": "Research Foundations"
+    },
+    {
+      "description": "Use these works to understand the inner computation of the model that an agent may call. Looped, recurrent-depth, and recursive models reuse learned computation within one inference to refine hidden states, vary effective depth, or simulate dynamics. Operational Loop Engineering sits outside that inference and decides when work runs, what tools and context are allowed, what evidence proves progress, what state survives, and when to retry, escalate, or stop.\nEvery entry below is tagged in the README and exported as , in the dataset.",
+      "items": [],
+      "title": "Model-Level Recurrence"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Foundations And Theory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Latent Reasoning And Adaptive Compute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scaling, Stability, And Mechanistic Evidence"
+    },
+    {
+      "description": "For a deeper architecture-only index, use Awesome Loop Models in the adjacent-list catalog below. Its stricter model definition complements this section; the resources above are the bridge most relevant to agents, coding systems, adaptive compute, and world simulation.",
+      "items": [],
+      "title": "Code, World Models, And Architecture Bridges"
+    },
+    {
+      "description": "Use these resources to design the higher-level loop around agents: recurring control flow, delegation, verification, state, and next-action decisions.",
+      "items": [],
+      "title": "Agent Workflow Patterns"
+    },
+    {
+      "description": "End-to-end systems and field reports of coding agents running in loops, from single-repo Ralph runners to production agent fleets.",
+      "items": [],
+      "title": "Coding-Agent Loop Systems"
+    },
+    {
+      "description": "Turn harness and observability mechanisms into exit gates, durable receipts, and retry signals with the resources below.",
+      "items": [],
+      "title": "Verification And Feedback Gates"
+    },
+    {
+      "description": "A loop that runs while nobody watches needs stronger boundaries than an interactive session. These resources cover the main risks: untrusted intake content, over-broad permissions, and unsandboxed execution.",
+      "items": [],
+      "title": "Securing Unattended Loops"
+    },
+    {
+      "description": "For durable loop state and cross-run context, use the resources below. For context-window design within one run, see the adjacent Context Engineering lists.",
+      "items": [],
+      "title": "State, Memory, And Context Persistence"
+    },
+    {
+      "description": "Coordinating multiple agents inside one loop: planners, workers, judges, worktree isolation, and merge gates.",
+      "items": [],
+      "title": "Orchestration And Multi-Agent Delegation"
+    },
+    {
+      "description": "How to measure loops rather than single runs: long-horizon, multi-session, reliability, and verifier-quality benchmarks.",
+      "items": [],
+      "title": "Benchmarks And Evaluation"
+    },
+    {
+      "description": "Running loops in production: cost control, incident handling, and promoting validated agent behavior into cheaper deterministic paths.",
+      "items": [],
+      "title": "Operations Playbooks"
+    },
+    {
+      "description": "Reusable patterns that contributors can turn into future examples, templates, or playbooks.\nAll 20 documented patterns span build, operate, optimize, and govern use cases. Each has a full write-up, worked scenario, matching JSON contract, and side-by-side comparison in the matrix.",
+      "items": [],
+      "title": "Templates And Patterns"
+    },
+    {
+      "description": "Concrete examples make the loop contract easier to adapt to real repositories.\nPreview an example locally:",
+      "items": [],
+      "title": "Examples And Schema"
+    },
+    {
+      "description": "Study concrete loop designs or contribute a real, realistic, or safely anonymized example.\nRunning a real loop? Share it, real or anonymized, in the patterns discussion under Shape What Comes Next. Use the minimum useful case study and anonymization checklists so others can learn from it safely.",
+      "items": [],
+      "title": "Community Gallery"
+    },
+    {
+      "description": "Skeptical takes and measured failure modes, because a loop that cannot fail safely should not run unattended.",
+      "items": [],
+      "title": "Critiques, Risks, And Limitations"
+    },
+    {
+      "description": "The Future Directions agenda turns fifteen open problems into scoped studies, runtime projects, product pilots, and shared standards. Every workstream defines the decision it unlocks, a minimum useful artifact, core measures, a starter slice, and a completion gate.\nStart with one recurring task, freeze its Loop Contract, compare current operation plus single-pass and fixed-retry baselines, inject failures, then publish every run, receipt, cost, and negative result. Use the shared evaluation protocol, follow a 90-day role plan, or open a direction proposal.",
+      "items": [],
+      "title": "Future Directions"
+    },
+    {
+      "description": "Related directories and reading lists for the layers around loop engineering.",
+      "items": [],
+      "title": "Adjacent Awesome Lists"
+    },
+    {
+      "description": "Browse interactively, query structured exports, or reuse the publishing components.\nLoad the resources directly from Hugging Face:",
+      "items": [],
+      "title": "Explore And Reuse"
+    },
+    {
+      "description": "Track upcoming work, inspect release history, propose evidence, or share an operating lesson.",
+      "items": [],
+      "title": "Shape What Comes Next"
+    },
+    {
+      "description": "Move from evidence to a working loop.\nFork the contracts, runtime starters, and dataset schema for your own loop system.",
+      "items": [],
+      "title": "Build From This"
+    },
+    {
+      "description": "Cite the field guide with:",
+      "items": [],
+      "title": "Citation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:25:19.810Z",
+    "original_repository": "ChaoYue0307/awesome-loop-engineering",
+    "original_repository_sha": "c9ec1b88285612d26b974de8fd8376aad3aafec9",
+    "enhanced_repository": "enhansome/enhansome-loop-engineering",
+    "enhanced_repository_description": null,
+    "title": "Awesome loop engineering with stars"
+  }
+}
