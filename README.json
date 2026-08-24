@@ -1,7 +1,2366 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Feature-level building blocks you assemble a loop from: schedulers, goals, worktrees, hooks, skills, plugins, and protocols.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧰 dotskills",
+          "description": "Tool GitHubvincentkoc/dotskills A registry of curated Codex and OpenClaw skills, framed as an \"ADE Loop\" (Agent Development Environment to registry to Skills Gym) where reusable skills are developed, shared, and evaluated across runs. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1159738101,
+            "language": "Python",
+            "last_commit": "2026-08-22T07:56:35Z",
+            "owner": "vincentkoc",
+            "repo": "dotskills",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 opencode-scheduler",
+          "description": "Tool GitHubdifferent-ai/opencode-scheduler OpenCode plugin that runs recurring agent jobs through OS-native schedulers (launchd on macOS, systemd on Linux), with workdir-scoped jobs, timeouts, and skipped ticks when the previous run is still active. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1127509991,
+            "language": "TypeScript",
+            "last_commit": "2026-02-23T07:06:52Z",
+            "owner": "different-ai",
+            "repo": "opencode-scheduler",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Agent-Loop-Skills",
+          "description": "Tool GitHubgaasher/Agent-Loop-Skills Reusable verification-gated loops (autoresearch, scientific writing, data analysis, code and prompt optimization, red-teaming) packaged as open-standard Agent Skills, each with a feedback signal, run ledger, and termination conditions. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1269680641,
+            "language": "Python",
+            "last_commit": "2026-06-30T04:03:49Z",
+            "owner": "gaasher",
+            "repo": "Agent-Loop-Skills",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 launch-your-agent",
+          "description": "Tool GitHubanthropics/launch-your-agent Anthropic's official Claude Code skill set that operationalizes an interview, launch, grade-against-definition-of-done, iterate, and schedule loop for Claude Managed Agents, leaving a live recurring scheduled agent plus an eval scaffold and roadmap. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1271323125,
+            "language": "HTML",
+            "last_commit": "2026-07-07T12:53:08Z",
+            "owner": "anthropics",
+            "repo": "launch-your-agent",
+            "stars": 960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 kanban-md",
+          "description": "Tool GitHubantopolskiy/kanban-md File-based kanban board for autonomous agent loops: a CLI and TUI over plain Markdown files that gives multi-agent work a durable, inspectable work-intake queue. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152162423,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:00:14Z",
+            "owner": "antopolskiy",
+            "repo": "kanban-md",
+            "stars": 199
+          }
+        }
+      ],
+      "title": "Core Loop Primitives"
+    },
+    {
+      "description": "End-to-end operating guides and release notes from the runtime vendors themselves: how each platform expects you to run recurring agent work.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📚 Antigravity CLI",
+          "description": "Docs GitHubgoogle-antigravity/antigravity-cli Google's Antigravity CLI release of Jul 28, 2026 turns the agent into a programmable component rather than a terminal session. Official documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1237979735,
+            "language": null,
+            "last_commit": "2026-08-22T23:30:31Z",
+            "owner": "google-antigravity",
+            "repo": "antigravity-cli",
+            "stars": 2016
+          }
+        }
+      ],
+      "title": "Official Runtime Guides"
+    },
+    {
+      "description": "Loop Engineering is new as a practice name, but it builds on years of agent-loop, feedback, planning, and self-correction research.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧰 Reflexion code",
+          "description": "Tool GitHubnoahshinn/reflexion Reference implementation and experiments for verbal reinforcement loops. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 617325145,
+            "language": "Python",
+            "last_commit": "2025-01-14T07:54:02Z",
+            "owner": "noahshinn",
+            "repo": "reflexion",
+            "stars": 3239
+          }
+        }
+      ],
+      "title": "Research Foundations"
+    },
+    {
+      "description": "Use these resources to design the higher-level loop around agents: recurring control flow, delegation, verification, state, and next-action decisions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔁 12 Factor Agents",
+          "description": "Pattern GitHubhumanlayer/12-factor-agents Operating principles for production agents, including explicit prompts, state ownership, and pause-resume behavior. Operational pattern",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 957658915,
+            "language": "TypeScript",
+            "last_commit": "2025-09-21T14:37:40Z",
+            "owner": "humanlayer",
+            "repo": "12-factor-agents",
+            "stars": 25448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Loopy",
+          "description": "Tool GitHubForward-Future/loopy Library of reusable AI-agent loops with verification checks and stopping conditions, plus an installable skill for finding, adapting, and designing repeatable agent workflows. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1267442907,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T11:04:33Z",
+            "owner": "Forward-Future",
+            "repo": "loopy",
+            "stars": 3047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 HomeRail",
+          "description": "Tool GitHubxiaotianfotos/homerail TypeScript runtime that turns one-off agent chats into auditable, reusable DAG workflows on self-hosted hardware, with a DAG engine, CLI, and voice front end. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1292280249,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:37:47Z",
+            "owner": "xiaotianfotos",
+            "repo": "homerail",
+            "stars": 900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 deer-workflow",
+          "description": "Tool GitHubdeerwork-ai/deer-workflow Code-first runtime that keeps orchestration and control flow in TypeScript while delegating only the semantic work to replaceable agent runtimes (Codex CLI and Claude supported out of the box). Emits an observable JSONL event stream for downstream automation and ships an interactive TUI for watching execution. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1312488824,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T12:28:28Z",
+            "owner": "deerwork-ai",
+            "repo": "deer-workflow",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Skill Recorder",
+          "description": "Tool GitHubmicrosoft/skill-recorder Microsoft's tool for authoring loops from demonstration instead of from prose. It captures a real work session locally, clicks, app and window switches, pages visited, optional spoken narration, then uses GitHub Copilot CLI to reconstruct what you actually did as one intent plus an ordered step list you review and edit. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1316443307,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T04:38:41Z",
+            "owner": "microsoft",
+            "repo": "skill-recorder",
+            "stars": 3375
+          }
+        }
+      ],
+      "title": "Agent Workflow Patterns"
+    },
+    {
+      "description": "End-to-end systems and field reports of coding agents running in loops, from single-repo Ralph runners to production agent fleets.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧰 SWE-agent",
+          "description": "Tool GitHubSWE-agent/SWE-agent Agent-computer interface and autonomous software engineering agent for repository tasks. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 780737106,
+            "language": "Python",
+            "last_commit": "2026-08-17T22:33:19Z",
+            "owner": "SWE-agent",
+            "repo": "SWE-agent",
+            "stars": 20119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 OpenHands",
+          "description": "Tool GitHubAll-Hands-AI/OpenHands Open platform for AI software developers as generalist agents. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 771302083,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:49:16Z",
+            "owner": "OpenHands",
+            "repo": "OpenHands",
+            "stars": 84943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Agentless",
+          "description": "Tool GitHubOpenAutoCoder/Agentless Workflow-based approach for software issue resolution using localization, repair, and patch validation. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 822329559,
+            "language": "Python",
+            "last_commit": "2024-12-22T19:29:31Z",
+            "owner": "OpenAutoCoder",
+            "repo": "Agentless",
+            "stars": 2102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 AutoCodeRover",
+          "description": "Tool GitHubAutoCodeRoverSG/auto-code-rover Autonomous program improvement system for issue localization, patch generation, and validation. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783546882,
+            "language": "Python",
+            "last_commit": "2025-04-24T07:58:24Z",
+            "owner": "AutoCodeRoverSG",
+            "repo": "auto-code-rover",
+            "stars": 3100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 SWE-bench reading list",
+          "description": "List GitHubSWE-bench/reading-list Maintained map of software engineering agent systems and related papers. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1009283943,
+            "language": null,
+            "last_commit": "2025-12-08T19:38:42Z",
+            "owner": "SWE-bench",
+            "repo": "reading-list",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 how-to-ralph-wiggum",
+          "description": "Tool GitHubghuntley/how-to-ralph-wiggum Reference repository documenting the Ralph Wiggum technique end to end, from the bare loop script to guardrails and conventions. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1131470917,
+            "language": "HTML",
+            "last_commit": "2026-01-11T01:14:36Z",
+            "owner": "ghuntley",
+            "repo": "how-to-ralph-wiggum",
+            "stars": 1740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔁 Ralph Copilot",
+          "description": "Pattern GitHubgiocaizzi/ralph-copilot Language-agnostic Ralph loop implementation using fresh context, filesystem memory, , and . Operational pattern",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1145912249,
+            "language": null,
+            "last_commit": "2026-07-22T22:11:05Z",
+            "owner": "giocaizzi",
+            "repo": "ralph-copilot",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Ralph (snarktank)",
+          "description": "Tool GitHubsnarktank/ralph Ryan Carson's PRD-driven Ralph implementation that re-runs Amp or Claude Code with a fresh instance per iteration, gates each story on typecheck and tests, and persists state in prd.json, progress.txt, and Git history until every story passes. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1129759677,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T01:46:21Z",
+            "owner": "snarktank",
+            "repo": "ralph",
+            "stars": 21593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 ralph-claude-code",
+          "description": "Tool GitHubfrankbria/ralph-claude-code Loop runner that repeatedly re-executes Claude Code against project requirements, using dual-condition exit detection, rate limiting, and a circuit breaker to decide when the loop should stop. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1045721921,
+            "language": "Shell",
+            "last_commit": "2026-07-18T02:33:21Z",
+            "owner": "frankbria",
+            "repo": "ralph-claude-code",
+            "stars": 9607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 ralph-orchestrator",
+          "description": "Tool GitHubmikeyobrien/ralph-orchestrator Multi-backend implementation of the Ralph Wiggum technique that keeps a coding agent looping until task completion, using role-scoped hat personas that coordinate through events, with human-in-the-loop controls and a monitoring dashboard. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1052259802,
+            "language": "Rust",
+            "last_commit": "2026-08-21T22:50:30Z",
+            "owner": "mikeyobrien",
+            "repo": "ralph-orchestrator",
+            "stars": 3107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 ralphex",
+          "description": "Tool GitHubumputun/ralphex Extended Ralph loop runner that creates a Git branch per plan, executes tasks in fresh sessions with a commit after each, runs a multi-phase review pipeline with parallel review agents, and archives the completed plan. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137835873,
+            "language": "Go",
+            "last_commit": "2026-08-24T08:55:19Z",
+            "owner": "umputun",
+            "repo": "ralphex",
+            "stars": 1446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 ralph (iannuttall)",
+          "description": "Tool GitHubiannuttall/ralph File-based Ralph-style agent loop that executes one JSON PRD story per iteration with fresh model context, using Git and on-disk state as memory across Claude, Codex, Droid, and OpenCode backends. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1132885915,
+            "language": "TypeScript",
+            "last_commit": "2026-02-04T13:37:31Z",
+            "owner": "iannuttall",
+            "repo": "ralph",
+            "stars": 952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 ralph-loop-agent",
+          "description": "Tool GitHubvercel-labs/ralph-loop-agent Vercel Labs implementation of the Ralph loop for the AI SDK: an outer loop re-runs the agent with verifier feedback until a verifyCompletion check passes or iteration, token, or cost stop conditions trigger. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1127423335,
+            "language": "TypeScript",
+            "last_commit": "2026-01-08T16:35:06Z",
+            "owner": "vercel-labs",
+            "repo": "ralph-loop-agent",
+            "stars": 827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Open Ralph Wiggum",
+          "description": "Tool GitHubTh0rgal/open-ralph-wiggum Agent-agnostic CLI that runs the Ralph Wiggum loop by feeding the same prompt to a fresh agent instance each iteration, with task tracking, live status monitoring, and mid-loop context injection across six coding-agent backends. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128833454,
+            "language": "TypeScript",
+            "last_commit": "2026-06-02T16:13:41Z",
+            "owner": "Th0rgal",
+            "repo": "open-ralph-wiggum",
+            "stars": 1881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Gas Town",
+          "description": "Tool GitHubsteveyegge/gastown Steve Yegge's multi-agent orchestrator that runs 20-30 parallel coding agents with coordinator, worker, and merge-queue roles; the structured-orchestration end of the spectrum that Ralph anchors with bare iteration. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1117184424,
+            "language": "Go",
+            "last_commit": "2026-08-19T04:16:45Z",
+            "owner": "gastownhall",
+            "repo": "gastown",
+            "stars": 17756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 karl",
+          "description": "Tool GitHubkayoslab/karl Autonomous multi-agent development loop with planner, reviewer, architect, tester, developer, deployment, and retry phases. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1177715891,
+            "language": "Shell",
+            "last_commit": "2026-04-08T07:56:51Z",
+            "owner": "kayoslab",
+            "repo": "karl",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔁 joelclaw agent-loop skill",
+          "description": "Pattern GitHubjoelhooks/joelclaw Durable Planner-Implementor-Reviewer-Judge coding loops via Inngest events and progress files. Operational pattern",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158170428,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T19:59:53Z",
+            "owner": "joelhooks",
+            "repo": "joelclaw",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 ARIS (Auto-Research-In-Sleep)",
+          "description": "Tool GitHubwanshuiyin/Auto-claude-code-research-in-sleep Markdown-only skills that run autonomous overnight ML research loops on Claude Code, Codex, or other LLM agents, iterating idea discovery and experiments with cross-model review as the verification gate. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1177608268,
+            "language": "Python",
+            "last_commit": "2026-08-24T04:19:41Z",
+            "owner": "wanshuiyin",
+            "repo": "Auto-claude-code-research-in-sleep",
+            "stars": 15085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 AutoAgent",
+          "description": "Tool GitHubkevinrgu/autoagent Meta-agent that autonomously edits its own harness (system prompt, tools, orchestration), re-runs the benchmark, and keeps or discards each change by score, with an author-reported top SpreadsheetBench result from a 24-hour unattended run. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1199906287,
+            "language": "Python",
+            "last_commit": "2026-04-03T21:11:51Z",
+            "owner": "thirdlayerinc",
+            "repo": "autoagent",
+            "stars": 4567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 zeroshot",
+          "description": "Tool GitHubthe-open-engine/zeroshot CLI that runs a planner, an implementer, and independent validators in isolated environments, looping until a change is verified or rejected with reproducible failures. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1122859216,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T08:31:40Z",
+            "owner": "the-open-engine",
+            "repo": "zeroshot",
+            "stars": 1710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Loki Mode",
+          "description": "Tool GitHubasklokesh/loki-mode Autonomous spec-to-app loop that runs Reason-Act-Reflect-Verify cycles behind quality gates, with completion gated by a blind three-reviewer council and a deterministic evidence receipt that rejects empty diffs and failing tests. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1123323771,
+            "language": "Shell",
+            "last_commit": "2026-08-24T13:49:56Z",
+            "owner": "asklokesh",
+            "repo": "loki-mode",
+            "stars": 1047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Looper",
+          "description": "Tool GitHubksimback/looper Claude Code skill for designing review-gated agent loops before running them, coaching the user into a portable loop.yaml spec with explicit goals, typed verification, iteration caps, and budget limits, then emitting artifacts runnable in-session or via an external Python runner. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1273707469,
+            "language": "Python",
+            "last_commit": "2026-08-09T16:36:06Z",
+            "owner": "ksimback",
+            "repo": "looper",
+            "stars": 706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Agent Apprenticeship",
+          "description": "Tool GitHubForsy-AI/agent-apprenticeship Multi-backend ecosystem where apprentice agents complete tasks through workflow loops, mentors or humans verify results, and execution traces are compiled into a published dataset that feeds future agent improvement. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1274547830,
+            "language": "Python",
+            "last_commit": "2026-07-06T15:17:36Z",
+            "owner": "ray-r-ren",
+            "repo": "agent-apprenticeship",
+            "stars": 1338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Scholar Loop",
+          "description": "Tool GitHubrenee-jia/scholar-loop Autonomous multi-agent research loop from literature to hypothesis to real ML experiments to write-up, scoring every checkable agent claim against frozen ground-truth metrics and shipping an adversarial cheater engine that probes the loop for reward-hacking gaps. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1269773493,
+            "language": "Python",
+            "last_commit": "2026-06-23T06:27:49Z",
+            "owner": "renee-jia",
+            "repo": "scholar-loop",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 loop-engineering (Cobus Greyling)",
+          "description": "Tool GitHubcobusgreyling/loop-engineering Patterns-and-tooling repo shipping seven npm CLIs (loop-init, loop-audit, loop-cost, loop-sync, loop-context, loop-mcp-server, loop-worktree), starter kits, and production loop patterns; scaffolds skills/state/budget files, scores a repo's \"Loop Ready\" readiness, detects state drift, and estimates token spend per cadence for Claude Code, Codex, OpenCode, and Grok loops. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1263648864,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T08:13:28Z",
+            "owner": "cobusgreyling",
+            "repo": "loop-engineering",
+            "stars": 10632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 AutoCVE",
+          "description": "Tool GitHublarlarua/AutoCVE Open-source agent-driven CVE discovery platform whose orchestrator coordinates Recon, Scan, Triage, Finding, and Verification agents through ReAct loops with correction nudges and structured FinalizeFinding termination, running the full discover, source-audit, dynamic-verify, dedup, and report loop on a self-hosted FastAPI/React/PostgreSQL stack with agent-tree observability. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1270272670,
+            "language": "Python",
+            "last_commit": "2026-08-20T07:33:40Z",
+            "owner": "larlarua",
+            "repo": "AutoCVE",
+            "stars": 1275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 LoongFlow (Baidu)",
+          "description": "Tool GitHubbaidu-baige/LoongFlow Baidu's open-source agent framework built explicitly for Loop Engineering: a Plan-Execute-Summary loop with structured experiential memory lets agents plan, execute, reflect, and evolve across software-engineering, math, and ML tasks (Apache-2.0, on PyPI, paper: arXiv 2512.24077). Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1125655562,
+            "language": "Python",
+            "last_commit": "2026-04-09T12:12:52Z",
+            "owner": "baidu-baige",
+            "repo": "LoongFlow",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 cc10x",
+          "description": "Tool GitHubromiluz13/cc10x Claude Code plugin that routes work through one router, nine specialist agents, sixteen skills, and four workflows, enforcing fail-closed verification and test-honesty gates and writing each workflow's intent, evidence, and verdicts to durable .cc10x/ disk artifacts so resume and review survive context compaction. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1081161448,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:42:57Z",
+            "owner": "romiluz13",
+            "repo": "cc10x",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 RigorLoop",
+          "description": "Tool GitHubronikobrosly/RigorLoop Statistically-grounded loop-engineering framework in which a strategy agent directs concurrent executor agents that iteratively build and refine a solution against gold-standard examples. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1293727298,
+            "language": "Python",
+            "last_commit": "2026-07-22T12:15:43Z",
+            "owner": "ronikobrosly",
+            "repo": "RigorLoop",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Open-Inspect",
+          "description": "Tool GitHubColeMurray/background-agents Open-source background coding-agent system inspired by Ramp's Inspect: hosted agents in full dev-environment sandboxes, reachable from a web UI, Slack, GitHub PRs, Linear, or webhooks. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1141974122,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T07:27:04Z",
+            "owner": "ColeMurray",
+            "repo": "background-agents",
+            "stars": 2673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 T3MP3ST",
+          "description": "Tool GitHubelder-plinius/T3MP3ST Multi-agent offensive-security meta-harness that turns an existing coding agent into an autonomous vulnerability-research loop, with a verify-claims receipt step that separates confirmed findings from speculation. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1287460663,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T01:27:31Z",
+            "owner": "elder-plinius",
+            "repo": "T3MP3ST",
+            "stars": 5659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Loom",
+          "description": "Tool GitHubvalkor-ai/loom Open-source delivery harness for existing coding agents that treats delivery as a durable loop: route, execute, verify, record evidence, repair, and continue from saved state. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1263543726,
+            "language": "Rust",
+            "last_commit": "2026-08-17T02:32:43Z",
+            "owner": "valkor-ai",
+            "repo": "loom",
+            "stars": 859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Inferoa",
+          "description": "Tool GitHubagentic-in/inferoa Inference-native agent harness for loop engineering that treats every loop as an inference workload, shaping each turn to preserve cacheable prefixes and bound stale evidence. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1262603912,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T12:58:43Z",
+            "owner": "agentic-in",
+            "repo": "inferoa",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 PlanWeave",
+          "description": "Tool GitHubGaosCode/PlanWeave File-backed loop-engineering system for long-running coding agents that turns fuzzy plans into a claimable task graph of nodes and block documents routed through implementation and review. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1248055238,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T15:31:45Z",
+            "owner": "GaosCode",
+            "repo": "PlanWeave",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 loop.js",
+          "description": "Tool GitHubloop-js/loop.js TypeScript loop-engineering framework that runs an agent in rounds against a stated goal until a skeptical, read-only verifier agent accepts the result or a budget is exhausted. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1296404338,
+            "language": "TypeScript",
+            "last_commit": "2026-07-10T14:19:50Z",
+            "owner": "loop-js",
+            "repo": "loop.js",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 ai-trains-ai",
+          "description": "Tool GitHubDanau5tin/ai-trains-ai Recursive training loop where a trainer agent autonomously writes complete reinforcement-learning jobs (environments, rewards, configs), runs them, and iterates on the results. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1291958928,
+            "language": "Python",
+            "last_commit": "2026-07-14T08:15:02Z",
+            "owner": "Danau5tin",
+            "repo": "ai-trains-ai",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Webwright",
+          "description": "Tool GitHubmicrosoft/Webwright Treats workspace code, screenshots, and run artifacts as durable state while browsers remain disposable, producing a readable write-run-inspect-repair loop for long-horizon web tasks. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1204415882,
+            "language": "Python",
+            "last_commit": "2026-08-03T22:00:27Z",
+            "owner": "microsoft",
+            "repo": "Webwright",
+            "stars": 5940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 DeerFlow",
+          "description": "Tool GitHubbytedance/deer-flow ByteDance's open-source long-horizon SuperAgent harness that researches, codes, and creates across extended multi-step runs, one of the most widely adopted open agent harnesses. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 979115477,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:48:38Z",
+            "owner": "bytedance",
+            "repo": "deer-flow",
+            "stars": 80777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Grok Build",
+          "description": "Tool GitHubxai-org/grok-build xAI's official agentic coding CLI that plans, edits, and verifies changes in a repository, joining the major vendor coding-agent runtimes. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1300902838,
+            "language": "Rust",
+            "last_commit": "2026-08-23T10:49:04Z",
+            "owner": "xai-org",
+            "repo": "grok-build",
+            "stars": 25981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 BlitzOS",
+          "description": "Tool GitHubblitzdotdev/blitzos Open-source pattern for booting cloud agents pre-loaded with your work context so recurring sessions resume instantly instead of cold-starting. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1299827099,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:52:53Z",
+            "owner": "blitzdotdev",
+            "repo": "BlitzOS",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Finn-loop",
+          "description": "Tool GitHubfinna/Finn-loop Three Claude Code skills from Alex Finn that turn Linear + GitHub into a small, human-gated software factory: /finn-spec interviews you until the behavior is unambiguous and files a Linear issue with acceptance criteria and non-goals, /finn-build claims the next agent-ready issue and opens a PR (run repeatedly via the /loop primitive), and /finn-review posts loop-approved or changes-requested verdicts against required CI checks, one approval label, one rule: humans merge. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1309048757,
+            "language": "JavaScript",
+            "last_commit": "2026-07-23T00:54:26Z",
+            "owner": "finna",
+            "repo": "Finn-loop",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 ECC",
+          "description": "Tool GitHubaffaan-m/ECC Self-described agent harness operating system, packaging planning, execution, and optimization for coding agents behind one runtime with documentation in several languages. Very widely starred; treat adoption counts as a popularity signal rather than a quality judgement and read the source before relying on it. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1136590548,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T05:00:04Z",
+            "owner": "affaan-m",
+            "repo": "ECC",
+            "stars": 242791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 LongHorizon-Harness",
+          "description": "Tool GitHubAMAP-ML/LongHorizon-Harness Runnable implementation of the Manage-Execute-Audit loop, driving agents across desktop apps and the CLI over long sessions with fresh-context execution, durable verified state, independent auditing, and recoverable progress. Integrates with Claude Code, Codex, and OpenClaw. MIT. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1322509558,
+            "language": "Python",
+            "last_commit": "2026-08-20T12:36:03Z",
+            "owner": "AMAP-ML",
+            "repo": "LongHorizon-Harness",
+            "stars": 1201
+          }
+        }
+      ],
+      "title": "Coding-Agent Loop Systems"
+    },
+    {
+      "description": "Turn harness and observability mechanisms into exit gates, durable receipts, and retry signals with the resources below.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧰 HALO (Hierarchical Agent Loop Optimizer)",
+          "description": "Tool GitHubcontext-labs/halo Analyzes production agent traces to find harness-level failure modes, hands its report to a coding agent to apply fixes, and repeats the collect-analyze-fix-redeploy cycle, reporting AppWorld gains from harness changes alone. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1217281692,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:21:10Z",
+            "owner": "context-labs",
+            "repo": "HALO",
+            "stars": 1148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 auto-harness",
+          "description": "Tool GitHubneosigmaai/auto-harness Bring-your-own-agent framework for self-improving agentic systems that mines failures from runs, optimizes the harness in response, and gates every change behind regression checks. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1200811096,
+            "language": "Python",
+            "last_commit": "2026-07-08T02:58:36Z",
+            "owner": "neosigmaai",
+            "repo": "auto-harness",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Inspect AI",
+          "description": "Tool GitHubUKGovernmentBEIS/inspect_ai UK AISI evaluation framework with solvers, scorers, sandboxing, tool use, MCP, and log viewing. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 718665019,
+            "language": "Python",
+            "last_commit": "2026-08-23T21:59:00Z",
+            "owner": "UKGovernmentBEIS",
+            "repo": "inspect_ai",
+            "stars": 2611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 AgentOps",
+          "description": "Tool GitHubAgentOps-AI/agentops Monitoring, replay, cost tracking, benchmarking, and tracing for agent sessions. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679017521,
+            "language": "Python",
+            "last_commit": "2026-06-25T08:25:03Z",
+            "owner": "AgentOps-AI",
+            "repo": "agentops",
+            "stars": 5795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Langfuse",
+          "description": "Tool GitHublangfuse/langfuse Open-source LLM engineering platform with tracing, evaluations, and metrics that loops can read back as feedback signals. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642497346,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:08:11Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 33628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Arize Phoenix",
+          "description": "Tool GitHubArize-ai/phoenix Open-source AI observability for tracing, evaluating, and debugging agent behavior from real runs. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564072810,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:21:52Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 agentops (boshu2)",
+          "description": "Tool GitHubboshu2/agentops Independent verification layer for coding agents where a change only counts as done after a different model or a real test checks it, with the verdict recorded in the repo via a tamper-evident ledger. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1090518613,
+            "language": "Go",
+            "last_commit": "2026-08-23T06:22:16Z",
+            "owner": "boshu2",
+            "repo": "agentops",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 SkillSpec",
+          "description": "Tool GitHubmodiqo/skillspec CLI that makes agent skills followable, testable, and provable by converting prose skills into structured contracts, scoring follow-through risk, and generating execution traces of which steps ran, were skipped, and what evidence exists. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1274822133,
+            "language": "Rust",
+            "last_commit": "2026-08-09T08:13:21Z",
+            "owner": "modiqo",
+            "repo": "skillspec",
+            "stars": 788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Shepherd",
+          "description": "Tool GitHubshepherd-agents/shepherd Python runtime that records agent execution as reversible, Git-like traces so meta-agents or humans can observe, fork, replay, and revert any run before results touch files, with copy-on-write forking, roughly 95% cache reuse on replay, and syscall-level permission enforcement. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1279435409,
+            "language": "Python",
+            "last_commit": "2026-08-09T20:42:47Z",
+            "owner": "shepherd-agents",
+            "repo": "shepherd",
+            "stars": 2370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 grill-for-unknowns",
+          "description": "Tool GitHubnicobailon/grill-for-unknowns Portable SKILL.md agent skill that gates long-running subagent and coding-agent launches behind plan interrogation: it inspects the real territory (docs, source, tests, config) first, sorts what's known into facts, decisions, domain language, and unknowns across known/unknown quadrants, then emits a launch packet with assumptions, verification steps, and rollback risks before dispatch. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1295676197,
+            "language": null,
+            "last_commit": "2026-07-20T23:02:44Z",
+            "owner": "nicobailon",
+            "repo": "grill-for-unknowns",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Fable Harness",
+          "description": "Tool GitHubMiguok/fable-harness Drop-in behavior protocol kit (hooks, a skill, and sub-agents auto-injected into every Claude Code session) enforcing a verify-first process: gather evidence before answering and verify changes before declaring done. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1289727134,
+            "language": "Python",
+            "last_commit": "2026-07-20T15:42:13Z",
+            "owner": "Miguok",
+            "repo": "fable-harness",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Mindwalk",
+          "description": "Tool GitHubcosmtrek/mindwalk Local visualization tool that replays Claude Code and Codex session logs as light moving across a 3D map of the repository, making long agent runs inspectable after the fact. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1295154902,
+            "language": "Go",
+            "last_commit": "2026-08-10T02:06:47Z",
+            "owner": "cosmtrek",
+            "repo": "mindwalk",
+            "stars": 1282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Waggle",
+          "description": "Tool GitHubmodiqo/waggle MCP-native reference layer for agent handoffs: instead of pasting full context between agents, it passes a compact attributed, resolvable reference token that the receiving agent expands on demand. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1293054306,
+            "language": "Rust",
+            "last_commit": "2026-07-20T19:41:30Z",
+            "owner": "modiqo",
+            "repo": "waggle",
+            "stars": 724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Jacquard",
+          "description": "Tool GitHubjbwinters/jacquard-lang Research language designed around the machine-writes, human-verifies contract, using effect-typed signatures so an agent's generated code carries checkable declarations of what it is allowed to touch. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1291567399,
+            "language": "OCaml",
+            "last_commit": "2026-08-24T10:45:52Z",
+            "owner": "jbwinters",
+            "repo": "jacquard-lang",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 brain0",
+          "description": "Tool GitHubBrain0-ai/brain0 Black-box decision graph for AI-written code that records why an agent made each change, making agent-authored diffs inspectable after the fact. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1287125429,
+            "language": "Rust",
+            "last_commit": "2026-07-19T08:17:17Z",
+            "owner": "Brain0-ai",
+            "repo": "brain0",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Watch Skill",
+          "description": "Tool GitHuboxbshw/watch-skill Video understanding and self-verification layer that turns videos, streams, and agent screen recordings into searchable evidence an agent can check its own work against. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1290410846,
+            "language": "Python",
+            "last_commit": "2026-08-22T17:46:27Z",
+            "owner": "oxbshw",
+            "repo": "watch-skill",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Auto",
+          "description": "Tool GitHubRightNow-AI/auto Compiles recorded LLM-agent behavior into verified, capability-confined WebAssembly binaries, proving which parts of a loop are secretly symbolic and distilling them into deterministic code. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1290098318,
+            "language": "Rust",
+            "last_commit": "2026-07-07T12:28:30Z",
+            "owner": "RightNow-AI",
+            "repo": "auto",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Review Loop",
+          "description": "Tool GitHubearendil-works/pi-review-loop First-party extension from earendil-works, the org behind the pi coding agent (77k stars): keeps a native review window open while the agent works, and submitting a review records the current workspace as a session-backed checkpoint so the next pass diffs only the increment (\"Since review\" vs \"vs HEAD\" modes), turning one-shot PR review into a persistent human-verification loop over continuous agent output. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1308645980,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T16:29:27Z",
+            "owner": "earendil-works",
+            "repo": "pi-review-loop",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Codex Security",
+          "description": "Tool GitHubopenai/codex-security OpenAI's Codex Security CLI and TypeScript library, giving a coding agent a first-party path to run security review over its own changes instead of depending on an external scanner bolted onto the loop. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1299769220,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:45:53Z",
+            "owner": "openai",
+            "repo": "codex-security",
+            "stars": 10135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 old-coder",
+          "description": "Tool GitHubAmazingAng/old-coder Markdown skill that makes a coding agent prove its work instead of asking you to read every line: the agent pushes each change through a spec, then a gauntlet, then evidence. Plain instructions rather than a runtime, so it works with Claude Code, Codex CLI, Cursor, Aider, or a custom loop. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1313434625,
+            "language": "Python",
+            "last_commit": "2026-08-18T10:39:04Z",
+            "owner": "AmazingAng",
+            "repo": "old-coder",
+            "stars": 672
+          }
+        }
+      ],
+      "title": "Verification And Feedback Gates"
+    },
+    {
+      "description": "A loop that runs while nobody watches needs stronger boundaries than an interactive session. These resources cover the main risks: untrusted intake content, over-broad permissions, and unsandboxed execution.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧰 sandbox-runtime",
+          "description": "Tool GitHubanthropic-experimental/sandbox-runtime Anthropic's OS-level filesystem and network sandboxing for arbitrary processes without requiring a container. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079560616,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T02:53:49Z",
+            "owner": "anthropic-experimental",
+            "repo": "sandbox-runtime",
+            "stars": 5052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 E2B",
+          "description": "Tool GitHube2b-dev/E2B Open-source isolated cloud sandboxes for running untrusted, AI-generated code inside agent loops. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 609539715,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:02:35Z",
+            "owner": "e2b-dev",
+            "repo": "E2B",
+            "stars": 13536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 peerd",
+          "description": "Tool GitHubNotASithLord/peerd Browser-extension harness that runs the agent loop entirely client-side with user-supplied keys, sandboxed compute, and per-environment actor agents that hold only their tools and no API keys, isolating the orchestrator from untrusted content as a prompt-injection boundary. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1276595002,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T14:34:08Z",
+            "owner": "NotASithLord",
+            "repo": "peerd",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Cloudflare security-audit-skill",
+          "description": "Tool GitHubCloudflare/security-audit-skill Cloudflare's open-sourced six-phase audit pipeline in which separate validation agents try to disprove each finding and fresh agents independently verify every claim against source code, emitting schema-validated findings that accumulate across repeated runs. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1273427276,
+            "language": "JavaScript",
+            "last_commit": "2026-07-06T13:36:03Z",
+            "owner": "cloudflare",
+            "repo": "security-audit-skill",
+            "stars": 3040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 destructive_command_guard",
+          "description": "Tool GitHubDicklesworthstone/destructive_command_guard Rust safety hook that intercepts and blocks destructive Git and shell commands (hard resets, recursive deletes, database drops) before AI coding agents execute them, across Claude Code and other harnesses. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1130004860,
+            "language": "Rust",
+            "last_commit": "2026-08-24T13:13:20Z",
+            "owner": "Dicklesworthstone",
+            "repo": "destructive_command_guard",
+            "stars": 5820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Clawk",
+          "description": "Tool GitHubclawkwork/clawk Runs coding agents inside disposable, network-restricted Linux VMs so an unattended or untrusted agent's blast radius is confined to a throwaway sandbox. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1291502015,
+            "language": "Go",
+            "last_commit": "2026-08-13T21:18:22Z",
+            "owner": "clawkwork",
+            "repo": "clawk",
+            "stars": 987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Clodex IDE",
+          "description": "Tool GitHubmereyabdenbekuly-ctrl/clodex-ide Local-first zero-trust agentic IDE that confines agent actions behind explicit permission boundaries so untrusted or unattended runs stay contained. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1298189234,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T01:58:39Z",
+            "owner": "mereyabdenbekuly-ctrl",
+            "repo": "clodex-ide",
+            "stars": 862
+          }
+        }
+      ],
+      "title": "Securing Unattended Loops"
+    },
+    {
+      "description": "For durable loop state and cross-run context, use the resources below. For context-window design within one run, see the adjacent Context Engineering lists.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧰 Mem0",
+          "description": "Tool GitHubmem0ai/mem0 Open-source memory layer for retaining user, session, and agent state across repeated agent sessions. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 656099147,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:51:31Z",
+            "owner": "mem0ai",
+            "repo": "mem0",
+            "stars": 63948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Letta",
+          "description": "Tool GitHubletta-ai/letta Stateful agent framework from the MemGPT line with persistent, self-editing memory across runs. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 703411624,
+            "language": null,
+            "last_commit": "2026-08-23T19:05:43Z",
+            "owner": "letta-ai",
+            "repo": "letta",
+            "stars": 24401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Zep",
+          "description": "Tool GitHubgetzep/zep Temporal knowledge graph memory that tracks how facts about users and systems change across sessions. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 634244448,
+            "language": "Python",
+            "last_commit": "2026-08-19T20:08:32Z",
+            "owner": "getzep",
+            "repo": "zep",
+            "stars": 4863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 LangMem",
+          "description": "Tool GitHublangchain-ai/langmem SDK for extracting, consolidating, and retrieving long-term agent memory between loop runs. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 920242883,
+            "language": "Python",
+            "last_commit": "2026-08-11T00:18:37Z",
+            "owner": "langchain-ai",
+            "repo": "langmem",
+            "stars": 1623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Beads",
+          "description": "Tool GitHubsteveyegge/beads Git-plus-SQLite issue and memory store that agents read and write with a CLI, giving recurring loops durable task state and progress that survives context resets. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1074561042,
+            "language": "Go",
+            "last_commit": "2026-08-24T11:17:26Z",
+            "owner": "gastownhall",
+            "repo": "beads",
+            "stars": 26556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 GenericAgent",
+          "description": "Tool GitHublsdefine/GenericAgent Self-evolving agent that grows a skill tree from a small seed, crystallizing completed runs into layered memory and reusable skills, with a master-worker mode for long-horizon goals. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1135791677,
+            "language": "Python",
+            "last_commit": "2026-08-24T05:09:38Z",
+            "owner": "lsdefine",
+            "repo": "GenericAgent",
+            "stars": 14013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 self-learning-skills",
+          "description": "Tool GitHubKulaxyz/self-learning-skills Meta-skill for Claude Code, Cursor, and AGENTS.md-compatible agents that recognizes when a session has earned a hard-won golden path (or hit a dead-end worth remembering), distills the procedure including failed approaches, and persists it as a skill or rule auto-loaded next run, turning each session's discoveries into durable cross-session loop state. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1283308335,
+            "language": null,
+            "last_commit": "2026-07-01T03:41:29Z",
+            "owner": "Kulaxyz",
+            "repo": "self-learning-skills",
+            "stars": 939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 AgentMemory",
+          "description": "Tool GitHubrohitg00/agentmemory Persistent cross-session memory for coding agents: auto-capture lifecycle hooks, an MCP server, and a REST API so progress, decisions, and context survive across runs and tools. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1166408297,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T06:11:16Z",
+            "owner": "rohitg00",
+            "repo": "agentmemory",
+            "stars": 27349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 TencentDB-Agent-Memory",
+          "description": "Tool GitHubTencentCloud/TencentDB-Agent-Memory Tencent Cloud's open-source local-first long-term memory for AI agents: a four-tier progressive pipeline from capture through consolidation with zero external API dependencies. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1203558071,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T10:06:58Z",
+            "owner": "TencentCloud",
+            "repo": "TencentDB-Agent-Memory",
+            "stars": 24200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 agent-memory (Neo4j Labs)",
+          "description": "Tool GitHubneo4j-labs/agent-memory Official Neo4j Labs graph-native memory system that stores conversations, builds knowledge graphs from agent interactions, and lets agents learn from their own reasoning traces. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1129311820,
+            "language": "Python",
+            "last_commit": "2026-08-20T17:33:46Z",
+            "owner": "neo4j-labs",
+            "repo": "agent-memory",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 re_gent",
+          "description": "Tool GitHubregent-vcs/re_gent Agent-native version control layered on top of Git that records agent activity at the prompt level, so you can answer why the agent did something and undo agent work without losing your own. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1225427533,
+            "language": "Go",
+            "last_commit": "2026-07-02T13:15:30Z",
+            "owner": "regent-vcs",
+            "repo": "re_gent",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 deja-vu",
+          "description": "Tool GitHubvshulcz/deja-vu Memory layer over coding-agent session logs that mines past sessions for reusable context and recalls it into future runs. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1300173275,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:07:42Z",
+            "owner": "vshulcz",
+            "repo": "deja-vu",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 engram",
+          "description": "Tool GitHubGentleman-Programming/engram Agent-agnostic persistent memory system for coding agents, shipped as a single Go binary, so lessons, decisions, and context survive across sessions and tools instead of cold-starting each run. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1159234860,
+            "language": "Go",
+            "last_commit": "2026-08-17T13:39:22Z",
+            "owner": "Gentleman-Programming",
+            "repo": "engram",
+            "stars": 6141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 OptMem",
+          "description": "Tool GitHubVictorTaelin/OptMem Minimalist persistent memory for agents: an append-only LOG.txt plus a binary tree of pairwise summaries at increasing levels, exposed through three commands ( to rehydrate at session start, to record ≤280 chars, to search the full log). Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1312158335,
+            "language": "Python",
+            "last_commit": "2026-07-31T02:19:57Z",
+            "owner": "VictorTaelin",
+            "repo": "OptMem",
+            "stars": 1457
+          }
+        }
+      ],
+      "title": "State, Memory, And Context Persistence"
+    },
+    {
+      "description": "Coordinating multiple agents inside one loop: planners, workers, judges, worktree isolation, and merge gates.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧰 AutoGen",
+          "description": "Tool GitHubmicrosoft/autogen Multi-agent programming framework for conversations, tool use, and orchestration; active development has moved to the Microsoft Agent Framework. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 680120071,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Microsoft Agent Framework",
+          "description": "Tool GitHubmicrosoft/agent-framework Microsoft's successor to AutoGen and Semantic Kernel for building and orchestrating multi-agent workflows in Python and .NET. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 974445592,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:56:10Z",
+            "owner": "microsoft",
+            "repo": "agent-framework",
+            "stars": 13087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 LangGraph",
+          "description": "Tool GitHublangchain-ai/langgraph Graph-based framework for controllable agent workflows, persistence, and human-in-the-loop steps. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 676672661,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:15:53Z",
+            "owner": "langchain-ai",
+            "repo": "langgraph",
+            "stars": 40356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 CrewAI",
+          "description": "Tool GitHubcrewAIInc/crewAI Framework for multi-agent workflows organized around roles, tasks, and crews. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 710601088,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:16:05Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 AgentKit",
+          "description": "Tool GitHubinngest/agent-kit TypeScript toolkit for durable, event-driven agents on workflow infrastructure. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 890168727,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T18:37:00Z",
+            "owner": "inngest",
+            "repo": "agent-kit",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 deepagents",
+          "description": "Tool GitHublangchain-ai/deepagents LangChain project for deeper, longer-running agents with middleware and harness patterns. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1027384981,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:02:04Z",
+            "owner": "langchain-ai",
+            "repo": "deepagents",
+            "stars": 28350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Composio Agent Orchestrator",
+          "description": "Tool GitHubComposioHQ/agent-orchestrator Orchestrates parallel coding agents in isolated worktrees that plan tasks, fix CI failures, respond to reviews, and manage their own PR lifecycle. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1156994049,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:31:52Z",
+            "owner": "Untrivial-ai",
+            "repo": "agent-orchestrator",
+            "stars": 9918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Omnigent",
+          "description": "Tool GitHubomnigent-ai/omnigent Databricks' open-source meta-harness and control plane that runs Claude Code, Codex, Cursor, and Pi under shared policies, with budget caps and human-approval gates enforced at the harness layer rather than in prompts. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1266212515,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:14:49Z",
+            "owner": "omnigent-ai",
+            "repo": "omnigent",
+            "stars": 9222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Eve",
+          "description": "Tool GitHubVercel/eve Vercel's TypeScript-native agent framework with durable execution, sandboxed compute, and OpenTelemetry tracing built in, so recurring agent work persists, replays, and is observable across runs by default. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1271113810,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:07:36Z",
+            "owner": "vercel",
+            "repo": "eve",
+            "stars": 4782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Agent-as-a-Router",
+          "description": "Tool GitHubLanceZPF/agent-as-a-router Agentic model routing for coding agents reframed as a context-action-feedback loop (ACRouter: orchestrator, verifier, memory) that learns which LLM to route each task to from execution feedback rather than frozen priors, with the CodeRouterBench benchmark across 8 frontier models. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1275378979,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T09:45:39Z",
+            "owner": "LanceZPF",
+            "repo": "agent-as-a-router",
+            "stars": 950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 AgentsMesh",
+          "description": "Tool GitHubAgentsMesh/AgentsMesh Self-hosted control plane for running fleets of coding agents across your own machines, with scheduling, per-pod Git worktree isolation, Kanban work tracking, and merge-request integration. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1169101061,
+            "language": "Go",
+            "last_commit": "2026-08-03T11:45:02Z",
+            "owner": "AgentsMesh",
+            "repo": "AgentsMesh",
+            "stars": 2327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Bernstein",
+          "description": "Tool GitHubsipyourdrink-ltd/bernstein Deterministic Python orchestrator that runs parallel CLI coding agents in isolated Git worktrees, gates merges on tests, lint, and type checks, and records every scheduling decision in a tamper-evident audit log. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1188762020,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:06:53Z",
+            "owner": "sipyourdrink-ltd",
+            "repo": "bernstein",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Aeon",
+          "description": "Tool GitHubaaronjmars/aeon Autonomous agent framework that runs Claude Code unattended on GitHub Actions, dispatching skills on cron or reactive triggers with per-run quality scoring, persistent memory, and self-healing skill repair. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1172886754,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T19:48:28Z",
+            "owner": "aeonfun",
+            "repo": "aeon",
+            "stars": 681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 h5i",
+          "description": "Tool GitHubh5i-dev/h5i Gives each coding agent an isolated sandboxed Git worktree, dispatches one task to a team that peer-reviews each other's candidates, then replays and tests each candidate with a neutral verifier before merging the winner. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178494429,
+            "language": "Rust",
+            "last_commit": "2026-08-24T13:09:29Z",
+            "owner": "h5i-dev",
+            "repo": "h5i",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 babysitter",
+          "description": "Tool GitHuba5c-ai/babysitter Harness-agnostic orchestration framework that runs agent workflows as process-as-code with mandatory enforcement stops after every step, quality-convergence loops that re-run verify-and-refine until thresholds pass, human-approval breakpoints, and an immutable event-sourced journal for deterministic replay across 12 coding harnesses. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128400700,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T07:42:29Z",
+            "owner": "a5c-ai",
+            "repo": "babysitter",
+            "stars": 1728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 claude-code-merge-queue",
+          "description": "Tool GitHubfunador/claude-code-merge-queue Local FIFO merge queue that serializes parallel Claude Code agents landing on a shared codebase, with a machine-wide build lock and a landing gate that blocks the integration branch until a configured check command passes, wired into the WorktreeCreate hook. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1296935864,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T16:46:40Z",
+            "owner": "funador",
+            "repo": "claude-code-merge-queue",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 pilotfish",
+          "description": "Tool GitHubNanako0129/pilotfish Multi-model orchestration layer for Claude Code where the frontier model plans, decides, and reviews while cheaper models execute volume work through six global subagent roles, with quality guarded by fresh-context verifier subagents rather than expensive models everywhere and graceful degradation when the frontier model is unavailable, shipped as three config files with no runtime code. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1293473664,
+            "language": "Python",
+            "last_commit": "2026-08-22T23:57:51Z",
+            "owner": "Nanako0129",
+            "repo": "pilotfish",
+            "stars": 658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 fable-advisor",
+          "description": "Tool GitHubDannyMac180/fable-advisor Claude Code plugin implementing an architect pattern where Fable 5 owns specs, decomposition, and verification while routing implementation to cheaper lanes (Grok 4.5 by default, GPT-5.6 via Codex CLI, or Sonnet/Opus fallback), with cross-vendor review and optional racing of two implementers on the same spec. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1287769478,
+            "language": null,
+            "last_commit": "2026-08-04T21:50:54Z",
+            "owner": "DannyMac180",
+            "repo": "fable-advisor",
+            "stars": 737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 OpenTag",
+          "description": "Tool GitHubamplifthq/opentag Turns an existing work thread into a governed agent work loop: @-mention a coding agent from Slack, GitHub, GitLab, Linear, Lark, Telegram, or Discord, and OpenTag curates the context and manages the run. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1278926400,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T01:36:06Z",
+            "owner": "amplifthq",
+            "repo": "opentag",
+            "stars": 1367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 herdr",
+          "description": "Tool GitHubogulcancelik/herdr Single-binary terminal multiplexer purpose-built for running fleets of coding agents (Claude Code, Codex, Copilot CLI, Cursor Agent, and 15+ others) with per-agent state tracking. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1193909050,
+            "language": "Rust",
+            "last_commit": "2026-08-24T01:52:38Z",
+            "owner": "herdrdev",
+            "repo": "herdr",
+            "stars": 31971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Orca",
+          "description": "Tool GitHubstablyai/orca Open-source agent development environment for orchestrating a fleet of parallel coding agents (20+ backends) on your own subscriptions, with per-agent workspaces and review flow. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1183888342,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:25:33Z",
+            "owner": "stablyai",
+            "repo": "orca",
+            "stars": 52540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Warren",
+          "description": "Tool GitHubjayminwest/warren Control plane for coding agents that operate in isolation, styled as a Coolify for agents: deploy, monitor, and manage long-running agent workloads on your own infrastructure. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1233257999,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T16:13:01Z",
+            "owner": "jayminwest",
+            "repo": "warren",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 agent-talk",
+          "description": "Tool GitHubxhluca/agent-talk Enables coding agents to work together by giving them a shared communication channel, so parallel agents can coordinate instead of colliding. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1274548517,
+            "language": "Python",
+            "last_commit": "2026-08-21T16:06:55Z",
+            "owner": "xhluca",
+            "repo": "agent-talk",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 codex-model-routing-team",
+          "description": "Tool GitHubzjp1997720/codex-model-routing-team Runs background Codex workers under a lead agent that verifies their output before it lands, a small-team pattern for supervised parallel delegation. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1299109556,
+            "language": null,
+            "last_commit": "2026-07-17T01:55:01Z",
+            "owner": "zjp1997720",
+            "repo": "codex-model-routing-team",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Agent Orchestrator",
+          "description": "Tool GitHubAgentWrapper/agent-orchestrator Agent IDE and orchestrator for managing fleets of coding agents, with worktree isolation and coordination so many agents can work a backlog in parallel from one control surface. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1156994049,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:31:52Z",
+            "owner": "Untrivial-ai",
+            "repo": "agent-orchestrator",
+            "stars": 9918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Buzz",
+          "description": "Tool GitHubblock/buzz Self-hostable workspace from Block where humans and AI agents share the same rooms, giving a fleet of long-running agents a common coordination surface instead of isolated one-off sessions. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1174789082,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:04:16Z",
+            "owner": "block",
+            "repo": "buzz",
+            "stars": 30394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 open-kritt",
+          "description": "Tool GitHubKritt-ai/open-kritt AGPL-3.0 security-research platform that decomposes vulnerability hunting into small well-defined tasks, fans them out across parallel tool-enabled agents in disposable Docker sandboxes, then closes the loop with post-processing verification scripts, proof-of-concept generation, de-duplication, and severity ranking via reusable workflow playbooks. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1306989887,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T07:14:50Z",
+            "owner": "Kritt-ai",
+            "repo": "open-kritt",
+            "stars": 1971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 BossConsole",
+          "description": "Tool GitHubrisa-labs-inc/BossConsole Native JVM operator's console (Kotlin Multiplatform, explicitly not Electron) that runs Claude Code, Codex, Gemini CLI, and OpenCode side-by-side with a shared browser, terminal, editor, secrets manager, and ~100 MCP tools, adding per-tool RBAC governance, kill-switches, E2E-encrypted session sharing, and daemonized persistent sessions for supervised multi-agent operation. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1307136587,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T09:57:17Z",
+            "owner": "risa-labs-inc",
+            "repo": "BossConsole",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Fractal",
+          "description": "Tool GitHubplasma-ai/fractal Arranges autonomous agent loops into a tree: each node iterates toward a goal in its own Git worktree and spawns child loop-nodes for separable subtasks, bounded by hard caps on iterations, depth, children, cost, and time, with run metadata in a local SQLite database and a live TUI for operator steering. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1285643489,
+            "language": "Python",
+            "last_commit": "2026-08-20T16:56:58Z",
+            "owner": "plasma-ai",
+            "repo": "fractal",
+            "stars": 696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 AgentENV",
+          "description": "Tool GitHubkvcache-ai/AgentENV Open-sourced 2026-07-27 by the Kimi/kvcache-ai team as the environment substrate behind Kimi K3's agentic RL training. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1309451980,
+            "language": "Rust",
+            "last_commit": "2026-08-24T02:12:18Z",
+            "owner": "kvcache-ai",
+            "repo": "AgentENV",
+            "stars": 3303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Ruflo",
+          "description": "Tool GitHubruvnet/ruflo Agent meta-harness for Claude Code and Codex, built on the premise that an agent is a model plus a harness: it supplies tools, memory, loops, sandboxes, and controls so agents self-organize into swarms, learn across tasks, and persist state between runs. Formerly Claude Flow. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 995029641,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:19:48Z",
+            "owner": "ruvnet",
+            "repo": "ruflo",
+            "stars": 69241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Agent Manager",
+          "description": "Tool GitHubYoanWai/agent-manager Terminal UI for operating a small agent fleet, surfaced on HN 2026-07-30. Each agent runs in an isolated tmux session that persists after the manager exits, and dead sessions revive with conversation history intact, so the fleet outlives the operator's terminal. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1301824521,
+            "language": "Go",
+            "last_commit": "2026-08-24T10:57:36Z",
+            "owner": "YoanWai",
+            "repo": "agent-manager",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 TrueDeck",
+          "description": "Tool GitHubWutIsHummus/TrueDeck Terminal-first workbench that puts Grok, Codex, Cursor, Claude, and Gemini in split panes on one codebase, each keeping its real TUI rather than being wrapped in a chat webview. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1314304412,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T19:29:21Z",
+            "owner": "WutIsHummus",
+            "repo": "TrueDeck",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 qm",
+          "description": "Tool GitHubyc-software/qm Y Combinator's open-source agent platform for whole organizations rather than one operator. Each person and each Slack room gets its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox, so background work keeps running \"while nobody's watching\" without workspaces bleeding into each other. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1316527318,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T00:39:05Z",
+            "owner": "yc-software",
+            "repo": "qm",
+            "stars": 14144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 sol-advisor",
+          "description": "Tool GitHubDannyMac180/sol-advisor Codex-native orchestration plugin that splits an agent run into an architect session that owns requirements, specs and acceptance, and bounded implementation lanes (native Terra lane, or an opt-in Luna lane using visible Codex app tasks) that only execute. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1319336961,
+            "language": "Shell",
+            "last_commit": "2026-08-16T13:24:31Z",
+            "owner": "DannyMac180",
+            "repo": "sol-advisor",
+            "stars": 2328
+          }
+        }
+      ],
+      "title": "Orchestration And Multi-Agent Delegation"
+    },
+    {
+      "description": "How to measure loops rather than single runs: long-horizon, multi-session, reliability, and verifier-quality benchmarks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧰 Terminal-Bench repository",
+          "description": "Tool GitHubharbor-framework/terminal-bench Open-source benchmark and harness for hard terminal tasks. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1141514919,
+            "language": "Python",
+            "last_commit": "2026-08-23T01:01:46Z",
+            "owner": "harbor-framework",
+            "repo": "terminal-bench",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧪 Do Codex Skills Save Tokens? Six Controlled GPT-5.6-sol Runs",
+          "description": "Benchmark GitHubPhelan164/codex-howto Asks whether a repository workflow skill earns its context cost, and finds the answer reverses by task size: the no-skill control was cheapest on a small specified backend fix, while a lean engineering-loop skill spent 54% fewer reported tokens on a larger build. Two task classes and six runs, with the measurements published. Benchmark or evaluation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1310771497,
+            "language": "Python",
+            "last_commit": "2026-08-24T07:13:59Z",
+            "owner": "Phelan164",
+            "repo": "codex-howto",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Benchmarks And Evaluation"
+    },
+    {
+      "description": "Running loops in production: cost control, incident handling, and promoting validated agent behavior into cheaper deterministic paths.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧰 rocketplaneIO",
+          "description": "Tool GitHubolemeyer/rocketplaneIO Self-hosted AI SRE for Kubernetes whose copilot investigates autonomously via eBPF traces, logs, and live service maps, but can only act through named, reversible, risk-graded operations. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1290954656,
+            "language": "Go",
+            "last_commit": "2026-07-29T13:16:59Z",
+            "owner": "olemeyer",
+            "repo": "rocketplaneIO",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 claude-thermos",
+          "description": "Tool GitHubizeigerman/claude-thermos Keeps a Claude Code session's prompt cache warm while the main agent waits on long-running subagents, so an orchestrator that blocks for more than a few minutes does not silently pay to rebuild its cache on every resume. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1307025984,
+            "language": "Python",
+            "last_commit": "2026-07-27T22:01:51Z",
+            "owner": "izeigerman",
+            "repo": "claude-thermos",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Worktrunk",
+          "description": "Tool GitHubmax-sixty/worktrunk CLI for Git worktree management built for running several coding agents in parallel, giving each agent an isolated checkout so concurrent work does not collide in a shared working directory. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078528927,
+            "language": "Rust",
+            "last_commit": "2026-08-24T06:13:05Z",
+            "owner": "max-sixty",
+            "repo": "worktrunk",
+            "stars": 6589
+          }
+        }
+      ],
+      "title": "Operations Playbooks"
+    },
+    {
+      "description": "Related directories and reading lists for the layers around loop engineering.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome Harness Engineering by ai-boost",
+          "description": "List GitHubai-boost/awesome-harness-engineering Comprehensive list for the agent harness layer that Loop Engineering builds on. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1195371847,
+            "language": "Python",
+            "last_commit": "2026-08-23T18:43:56Z",
+            "owner": "ai-boost",
+            "repo": "awesome-harness-engineering",
+            "stars": 3746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome Harness Engineering by walkinglabs",
+          "description": "List GitHubwalkinglabs/awesome-harness-engineering High-signal harness list with strong categories for context, guardrails, specs, evals, runtimes, and benchmarks. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1195208341,
+            "language": null,
+            "last_commit": "2026-08-19T07:27:55Z",
+            "owner": "walkinglabs",
+            "repo": "awesome-harness-engineering",
+            "stars": 3918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome Agent Harness",
+          "description": "List GitHubAutoJunjie/awesome-agent-harness Curated tools and resources for environments, constraints, and feedback around coding agents. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1173528409,
+            "language": null,
+            "last_commit": "2026-04-19T11:09:46Z",
+            "owner": "AutoJunjie",
+            "repo": "awesome-agent-harness",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome Context Engineering",
+          "description": "List GitHubMeirtz/Awesome-Context-Engineering Survey-style list for context engineering across LLMs and agents. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1012676456,
+            "language": null,
+            "last_commit": "2026-05-28T05:40:26Z",
+            "owner": "Meirtz",
+            "repo": "Awesome-Context-Engineering",
+            "stars": 3278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome Prompt Engineering",
+          "description": "List GitHubpromptslab/Awesome-Prompt-Engineering Classic adjacent list for prompt techniques and prompting resources. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 599716050,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T07:10:45Z",
+            "owner": "promptslab",
+            "repo": "Awesome-Prompt-Engineering",
+            "stars": 6282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome LLM Agents",
+          "description": "List GitHubkaushikb11/awesome-llm-agents General list of LLM agent papers, frameworks, and applications. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 623414622,
+            "language": "Python",
+            "last_commit": "2026-08-23T01:50:12Z",
+            "owner": "kaushikb11",
+            "repo": "awesome-llm-agents",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome AI Agents",
+          "description": "List GitHube2b-dev/awesome-ai-agents Broad AI agent ecosystem map. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655459367,
+            "language": null,
+            "last_commit": "2026-08-21T18:52:45Z",
+            "owner": "e2b-dev",
+            "repo": "awesome-ai-agents",
+            "stars": 29650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome CLI Coding Agents",
+          "description": "List GitHubbradAGI/awesome-cli-coding-agents Directory of terminal-native coding agents, parallel runners, autonomous loops, and the harnesses that orchestrate them. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1151837992,
+            "language": "Python",
+            "last_commit": "2026-08-24T08:37:16Z",
+            "owner": "bradAGI",
+            "repo": "awesome-cli-coding-agents",
+            "stars": 1067
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome Self-Evolving Agents",
+          "description": "List GitHubXMUDeepLIT/Awesome-Self-Evolving-Agents Survey-style list of agents that improve themselves over repeated runs, an adjacent angle on long-running loops with memory and verification. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1153483156,
+            "language": null,
+            "last_commit": "2026-08-23T15:29:33Z",
+            "owner": "XMUDeepLIT",
+            "repo": "Awesome-Self-Evolving-Agents",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome AI Agent Papers",
+          "description": "List GitHubVoltAgent/awesome-ai-agent-papers Curated 2026 research collection across agent engineering, memory, evaluation, workflows, and autonomous systems, a paper-level feeder for loop-design foundations. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1154407752,
+            "language": null,
+            "last_commit": "2026-08-21T10:52:38Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-ai-agent-papers",
+            "stars": 1713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 awesome-ralph",
+          "description": "List GitHubsnwfdhmp/awesome-ralph Curated directory for the Ralph technique, collecting official resources, implementations, playbooks, tutorials, and community channels for running coding agents in automated loops until specifications are fulfilled. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137340296,
+            "language": null,
+            "last_commit": "2026-02-03T08:34:43Z",
+            "owner": "snwfdhmp",
+            "repo": "awesome-ralph",
+            "stars": 916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome Agent Loops",
+          "description": "List GitHubserenakeyitan/awesome-agent-loops Curated collection of /loop, /goal, and /schedule commands for Claude Code and Codex sourced from practitioner posts, organized around trigger, condition, and skill structure. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1263461743,
+            "language": null,
+            "last_commit": "2026-06-22T19:11:04Z",
+            "owner": "serenakeyitan",
+            "repo": "awesome-agent-loops",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 Awesome Loop Models",
+          "description": "List GitHubhuskydoge/Awesome-Loop-Models Dedicated catalog of architectures that reuse a learned layer, block, module, or operator within one forward process; use it for deeper model-level coverage while this repository focuses on the bridge to operational agent loops. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1219975226,
+            "language": "Python",
+            "last_commit": "2026-08-24T05:54:27Z",
+            "owner": "huskydoge",
+            "repo": "Awesome-Loop-Models",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧭 harness-engineering (Ryan Lopopolo)",
+          "description": "List GitHublopopolo/harness-engineering Ryan Lopopolo's anthology, field guide, and agent context bundle for harness engineering, collecting primary sources on the layer directly beneath loop engineering. Discovery index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1305243497,
+            "language": "Python",
+            "last_commit": "2026-07-18T21:55:49Z",
+            "owner": "lopopolo",
+            "repo": "harness-engineering",
+            "stars": 2560
+          }
+        }
+      ],
+      "title": "Adjacent Awesome Lists"
+    },
+    {
+      "description": "Track upcoming work, inspect release history, propose evidence, or share an operating lesson.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🧾 Release notes",
+          "description": "Template GitHub Releases Versioned changelog of new resources, patterns, and repository changes. Reusable artifact",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1264170342,
+            "language": "Python",
+            "last_commit": "2026-08-21T03:03:00Z",
+            "owner": "ChaoYue0307",
+            "repo": "awesome-loop-engineering",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔁 Show your Loop Engineering patterns",
+          "description": "Pattern GitHub Discussions Community discussion for real or anonymized loop examples. Operational pattern",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1264170342,
+            "language": "Python",
+            "last_commit": "2026-08-21T03:03:00Z",
+            "owner": "ChaoYue0307",
+            "repo": "awesome-loop-engineering",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Shape What Comes Next"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T13:40:25.451Z",
+    "last_updated": "2026-08-24T14:09:15.124Z",
     "original_repository": "ChaoYue0307/awesome-loop-engineering",
     "original_repository_id": 1264170342,
     "original_repository_sha": "4384566a254779241567eb01fe7abdefa123125b",
