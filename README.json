@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "🧰 dotskills",
-          "description": "GitHubvincentkoc/dotskills A registry of curated Codex and OpenClaw skills, framed as an \"ADE Loop\" (Agent Development Environment to registry to Skills Gym) where reusable skills are developed, shared, and evaluated across runs. Source implementation",
+          "description": "2026 · GitHubvincentkoc/dotskills · License: MIT A registry of curated Codex and OpenClaw skills, framed as an \"ADE Loop\" (Agent Development Environment to registry to Skills Gym) where reusable skills are developed, shared, and evaluated across runs. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,8 +15,8 @@
             "id": 1159738101,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T09:46:50Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-17T16:23:52Z",
+            "open_issues": 1,
             "owner": "vincentkoc",
             "repo": "dotskills",
             "stars": 102,
@@ -39,7 +39,7 @@
         {
           "node_type": "item",
           "title": "🧰 opencode-scheduler",
-          "description": "GitHubdifferent-ai/opencode-scheduler OpenCode plugin that runs recurring agent jobs through OS-native schedulers (launchd on macOS, systemd on Linux), with workdir-scoped jobs, timeouts, and skipped ticks when the previous run is still active. Source implementation",
+          "description": "2026 · GitHubdifferent-ai/opencode-scheduler · License: MIT OpenCode plugin that runs recurring agent jobs through OS-native schedulers (launchd on macOS, systemd on Linux), with workdir-scoped jobs, timeouts, and skipped ticks when the previous run is still active. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -52,7 +52,7 @@
             "open_issues": 19,
             "owner": "different-ai",
             "repo": "opencode-scheduler",
-            "stars": 489,
+            "stars": 490,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -60,7 +60,7 @@
         {
           "node_type": "item",
           "title": "🧰 Agent-Loop-Skills",
-          "description": "GitHubgaasher/Agent-Loop-Skills Reusable verification-gated loops (autoresearch, scientific writing, data analysis, code and prompt optimization, red-teaming) packaged as open-standard Agent Skills, each with a feedback signal, run ledger, and termination conditions. Source implementation",
+          "description": "2026 · GitHubgaasher/Agent-Loop-Skills · License: MIT Reusable verification-gated loops (autoresearch, scientific writing, data analysis, code and prompt optimization, red-teaming) packaged as open-standard Agent Skills, each with a feedback signal, run ledger, and termination conditions. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,7 +101,7 @@
         {
           "node_type": "item",
           "title": "🧰 launch-your-agent",
-          "description": "GitHubanthropics/launch-your-agent Anthropic's official Claude Code skill set that operationalizes an interview, launch, grade-against-definition-of-done, iterate, and schedule loop for Claude Managed Agents, leaving a live recurring scheduled agent plus an eval scaffold and roadmap. Source implementation",
+          "description": "2026 · GitHubanthropics/launch-your-agent · License: Apache-2.0 Anthropic's official Claude Code skill set that operationalizes an interview, launch, grade-against-definition-of-done, iterate, and schedule loop for Claude Managed Agents, leaving a live recurring scheduled agent plus an eval scaffold and roadmap. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -114,7 +114,7 @@
             "open_issues": 2,
             "owner": "anthropics",
             "repo": "launch-your-agent",
-            "stars": 993,
+            "stars": 994,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -122,7 +122,7 @@
         {
           "node_type": "item",
           "title": "🧰 kanban-md",
-          "description": "GitHubantopolskiy/kanban-md File-based kanban board for autonomous agent loops: a CLI and TUI over plain Markdown files that gives multi-agent work a durable, inspectable work-intake queue. Source implementation",
+          "description": "2026 · GitHubantopolskiy/kanban-md · License: MIT File-based kanban board for autonomous agent loops: a CLI and TUI over plain Markdown files that gives multi-agent work a durable, inspectable work-intake queue. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -135,7 +135,7 @@
             "open_issues": 11,
             "owner": "antopolskiy",
             "repo": "kanban-md",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "agent-loops",
               "agent-skills",
@@ -164,7 +164,7 @@
         {
           "node_type": "item",
           "title": "📚 Antigravity CLI",
-          "description": "GitHubgoogle-antigravity/antigravity-cli Google's Antigravity CLI release of Jul 28, 2026 turns the agent into a programmable component rather than a terminal session. Official documentation",
+          "description": "2026 · GitHubgoogle-antigravity/antigravity-cli Google's Antigravity CLI release of Jul 28, 2026 turns the agent into a programmable component rather than a terminal session. Official documentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -173,11 +173,11 @@
             "id": 1237979735,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-16T03:54:34Z",
-            "open_issues": 661,
+            "last_commit": "2026-09-17T04:10:13Z",
+            "open_issues": 663,
             "owner": "google-antigravity",
             "repo": "antigravity-cli",
-            "stars": 2304,
+            "stars": 2312,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -191,7 +191,7 @@
         {
           "node_type": "item",
           "title": "🧰 Reflexion code",
-          "description": "GitHubnoahshinn/reflexion Reference implementation and experiments for verbal reinforcement loops. Source implementation",
+          "description": "2023 · GitHubnoahshinn/reflexion · License: MIT Reference implementation and experiments for verbal reinforcement loops. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,7 +204,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3269,
+            "stars": 3271,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "🔁 12 Factor Agents",
-          "description": "GitHubhumanlayer/12-factor-agents Operating principles for production agents, including explicit prompts, state ownership, and pause-resume behavior. Operational pattern",
+          "description": "2025 · GitHubhumanlayer/12-factor-agents Operating principles for production agents, including explicit prompts, state ownership, and pause-resume behavior. Operational pattern",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -235,7 +235,7 @@
             "open_issues": 27,
             "owner": "humanlayer",
             "repo": "12-factor-agents",
-            "stars": 25883,
+            "stars": 26117,
             "topics": [
               "12-factor",
               "12-factor-agents",
@@ -255,7 +255,7 @@
         {
           "node_type": "item",
           "title": "🧰 Loopy",
-          "description": "GitHubForward-Future/loopy Library of reusable AI-agent loops with verification checks and stopping conditions, plus an installable skill for finding, adapting, and designing repeatable agent workflows. Source implementation",
+          "description": "2026 · GitHubForward-Future/loopy · License: MIT Library of reusable AI-agent loops with verification checks and stopping conditions, plus an installable skill for finding, adapting, and designing repeatable agent workflows. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -268,7 +268,7 @@
             "open_issues": 5,
             "owner": "Forward-Future",
             "repo": "loopy",
-            "stars": 3140,
+            "stars": 3143,
             "topics": [
               "agent-skills",
               "agentic-workflows",
@@ -283,7 +283,7 @@
         {
           "node_type": "item",
           "title": "🧰 HomeRail",
-          "description": "GitHubxiaotianfotos/homerail TypeScript runtime that turns one-off agent chats into auditable, reusable DAG workflows on self-hosted hardware, with a DAG engine, CLI, and voice front end. Source implementation",
+          "description": "2026 · GitHubxiaotianfotos/homerail · License: MIT TypeScript runtime that turns one-off agent chats into auditable, reusable DAG workflows on self-hosted hardware, with a DAG engine, CLI, and voice front end. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -293,10 +293,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-13T12:38:58Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "xiaotianfotos",
             "repo": "homerail",
-            "stars": 963,
+            "stars": 967,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -304,7 +304,7 @@
         {
           "node_type": "item",
           "title": "🧰 deer-workflow",
-          "description": "GitHubdeerwork-ai/deer-workflow Code-first runtime that keeps orchestration and control flow in TypeScript while delegating only the semantic work to replaceable agent runtimes (Codex CLI and Claude supported out of the box). Emits an observable JSONL event stream for downstream automation and ships an interactive TUI for watching execution. Source implementation",
+          "description": "2026 · GitHubdeerwork-ai/deer-workflow · License: MIT Code-first runtime that keeps orchestration and control flow in TypeScript while delegating only the semantic work to replaceable agent runtimes (Codex CLI and Claude supported out of the box). Emits an observable JSONL event stream for downstream automation and ships an interactive TUI for watching execution. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -337,7 +337,7 @@
         {
           "node_type": "item",
           "title": "🧰 Skill Recorder",
-          "description": "GitHubmicrosoft/skill-recorder Microsoft's tool for authoring loops from demonstration instead of from prose. It captures a real work session locally, clicks, app and window switches, pages visited, optional spoken narration, then uses GitHub Copilot CLI to reconstruct what you actually did as one intent plus an ordered step list you review and edit. Source implementation",
+          "description": "2026 · GitHubmicrosoft/skill-recorder · License: MIT Microsoft's tool for authoring loops from demonstration instead of from prose. It captures a real work session locally, clicks, app and window switches, pages visited, optional spoken narration, then uses GitHub Copilot CLI to reconstruct what you actually did as one intent plus an ordered step list you review and edit. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -346,11 +346,11 @@
             "id": 1316443307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T13:27:45Z",
+            "last_commit": "2026-09-16T19:25:24Z",
             "open_issues": 35,
             "owner": "microsoft",
             "repo": "skill-recorder",
-            "stars": 3963,
+            "stars": 3970,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -375,7 +375,7 @@
         {
           "node_type": "item",
           "title": "🧰 SWE-agent",
-          "description": "GitHubSWE-agent/SWE-agent Agent-computer interface and autonomous software engineering agent for repository tasks. Source implementation",
+          "description": "2024 · GitHubSWE-agent/SWE-agent · License: MIT Agent-computer interface and autonomous software engineering agent for repository tasks. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -385,10 +385,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-14T22:12:07Z",
-            "open_issues": 111,
+            "open_issues": 113,
             "owner": "SWE-agent",
             "repo": "SWE-agent",
-            "stars": 20340,
+            "stars": 20344,
             "topics": [
               "agent",
               "agent-based-model",
@@ -404,7 +404,7 @@
         {
           "node_type": "item",
           "title": "🧰 OpenHands",
-          "description": "GitHubAll-Hands-AI/OpenHands Open platform for AI software developers as generalist agents. Source implementation",
+          "description": "2024 · GitHubOpenHands/OpenHands · License: MIT Open platform for AI software developers as generalist agents. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -413,11 +413,11 @@
             "id": 771302083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:33:44Z",
-            "open_issues": 799,
+            "last_commit": "2026-09-17T17:26:09Z",
+            "open_issues": 809,
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 88161,
+            "stars": 88304,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -435,7 +435,7 @@
         {
           "node_type": "item",
           "title": "🧰 Agentless",
-          "description": "GitHubOpenAutoCoder/Agentless Workflow-based approach for software issue resolution using localization, repair, and patch validation. Source implementation",
+          "description": "2024 · GitHubOpenAutoCoder/Agentless · License: MIT Workflow-based approach for software issue resolution using localization, repair, and patch validation. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -448,7 +448,7 @@
             "open_issues": 54,
             "owner": "OpenAutoCoder",
             "repo": "Agentless",
-            "stars": 2110,
+            "stars": 2111,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "🧰 AutoCodeRover",
-          "description": "GitHubAutoCodeRoverSG/auto-code-rover Autonomous program improvement system for issue localization, patch generation, and validation. Source implementation",
+          "description": "2024 · GitHubAutoCodeRoverSG/auto-code-rover Autonomous program improvement system for issue localization, patch generation, and validation. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -474,7 +474,7 @@
             "open_issues": 20,
             "owner": "AutoCodeRoverSG",
             "repo": "auto-code-rover",
-            "stars": 3099,
+            "stars": 3098,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -482,7 +482,7 @@
         {
           "node_type": "item",
           "title": "🧭 SWE-bench reading list",
-          "description": "GitHubSWE-bench/reading-list Maintained map of software engineering agent systems and related papers. Discovery index",
+          "description": "2025 · GitHubSWE-bench/reading-list Maintained map of software engineering agent systems and related papers. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -503,7 +503,7 @@
         {
           "node_type": "item",
           "title": "🧰 how-to-ralph-wiggum",
-          "description": "GitHubghuntley/how-to-ralph-wiggum Reference repository documenting the Ralph Wiggum technique end to end, from the bare loop script to guardrails and conventions. Source implementation",
+          "description": "2026 · GitHubghuntley/how-to-ralph-wiggum Reference repository documenting the Ralph Wiggum technique end to end, from the bare loop script to guardrails and conventions. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -516,7 +516,7 @@
             "open_issues": 1,
             "owner": "ghuntley",
             "repo": "how-to-ralph-wiggum",
-            "stars": 1755,
+            "stars": 1756,
             "topics": [
               "ai",
               "ralph-wiggum"
@@ -527,7 +527,7 @@
         {
           "node_type": "item",
           "title": "🔁 Ralph Copilot",
-          "description": "GitHubgiocaizzi/ralph-copilot Language-agnostic Ralph loop implementation using fresh context, filesystem memory, , and . Operational pattern",
+          "description": "2026 · GitHubgiocaizzi/ralph-copilot · License: MIT Language-agnostic Ralph loop implementation using fresh context, filesystem memory, , and . Operational pattern",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -555,7 +555,7 @@
         {
           "node_type": "item",
           "title": "🧰 Ralph (snarktank)",
-          "description": "GitHubsnarktank/ralph Ryan Carson's PRD-driven Ralph implementation that re-runs Amp or Claude Code with a fresh instance per iteration, gates each story on typecheck and tests, and persists state in prd.json, progress.txt, and Git history until every story passes. Source implementation",
+          "description": "2026 · GitHubsnarktank/ralph · License: MIT Ryan Carson's PRD-driven Ralph implementation that re-runs Amp or Claude Code with a fresh instance per iteration, gates each story on typecheck and tests, and persists state in prd.json, progress.txt, and Git history until every story passes. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -568,7 +568,7 @@
             "open_issues": 75,
             "owner": "snarktank",
             "repo": "ralph",
-            "stars": 21799,
+            "stars": 21812,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -576,7 +576,7 @@
         {
           "node_type": "item",
           "title": "🧰 ralph-claude-code",
-          "description": "GitHubfrankbria/ralph-claude-code Loop runner that repeatedly re-executes Claude Code against project requirements, using dual-condition exit detection, rate limiting, and a circuit breaker to decide when the loop should stop. Source implementation",
+          "description": "2025 · GitHubfrankbria/ralph-claude-code · License: MIT Loop runner that repeatedly re-executes Claude Code against project requirements, using dual-condition exit detection, rate limiting, and a circuit breaker to decide when the loop should stop. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -589,7 +589,7 @@
             "open_issues": 37,
             "owner": "frankbria",
             "repo": "ralph-claude-code",
-            "stars": 9634,
+            "stars": 9636,
             "topics": [
               "ai",
               "ai-agent",
@@ -607,7 +607,7 @@
         {
           "node_type": "item",
           "title": "🧰 ralph-orchestrator",
-          "description": "GitHubmikeyobrien/ralph-orchestrator Multi-backend implementation of the Ralph Wiggum technique that keeps a coding agent looping until task completion, using role-scoped hat personas that coordinate through events, with human-in-the-loop controls and a monitoring dashboard. Source implementation",
+          "description": "2025 · GitHubmikeyobrien/ralph-orchestrator · License: MIT Multi-backend implementation of the Ralph Wiggum technique that keeps a coding agent looping until task completion, using role-scoped hat personas that coordinate through events, with human-in-the-loop controls and a monitoring dashboard. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -620,7 +620,7 @@
             "open_issues": 6,
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3141,
+            "stars": 3146,
             "topics": [
               "ai",
               "ai-agents",
@@ -644,7 +644,7 @@
         {
           "node_type": "item",
           "title": "🧰 ralphex",
-          "description": "GitHubumputun/ralphex Extended Ralph loop runner that creates a Git branch per plan, executes tasks in fresh sessions with a commit after each, runs a multi-phase review pipeline with parallel review agents, and archives the completed plan. Source implementation",
+          "description": "2026 · GitHubumputun/ralphex · License: MIT Extended Ralph loop runner that creates a Git branch per plan, executes tasks in fresh sessions with a commit after each, runs a multi-phase review pipeline with parallel review agents, and archives the completed plan. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -657,7 +657,7 @@
             "open_issues": 4,
             "owner": "umputun",
             "repo": "ralphex",
-            "stars": 1485,
+            "stars": 1486,
             "topics": [
               "automation",
               "claude-code",
@@ -672,7 +672,7 @@
         {
           "node_type": "item",
           "title": "🧰 ralph (iannuttall)",
-          "description": "GitHubiannuttall/ralph File-based Ralph-style agent loop that executes one JSON PRD story per iteration with fresh model context, using Git and on-disk state as memory across Claude, Codex, Droid, and OpenCode backends. Source implementation",
+          "description": "2026 · GitHubiannuttall/ralph File-based Ralph-style agent loop that executes one JSON PRD story per iteration with fresh model context, using Git and on-disk state as memory across Claude, Codex, Droid, and OpenCode backends. Source implementation",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -693,7 +693,7 @@
         {
           "node_type": "item",
           "title": "🧰 ralph-loop-agent",
-          "description": "GitHubvercel-labs/ralph-loop-agent Vercel Labs implementation of the Ralph loop for the AI SDK: an outer loop re-runs the agent with verifier feedback until a verifyCompletion check passes or iteration, token, or cost stop conditions trigger. Source implementation",
+          "description": "2026 · GitHubvercel-labs/ralph-loop-agent · License: Apache-2.0 Vercel Labs implementation of the Ralph loop for the AI SDK: an outer loop re-runs the agent with verifier feedback until a verifyCompletion check passes or iteration, token, or cost stop conditions trigger. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -702,11 +702,11 @@
             "id": 1127423335,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-01-08T16:35:06Z",
+            "last_commit": "2026-09-16T20:32:06Z",
             "open_issues": 2,
             "owner": "vercel-labs",
             "repo": "ralph-loop-agent",
-            "stars": 832,
+            "stars": 833,
             "topics": [
               "experimental"
             ]
@@ -716,7 +716,7 @@
         {
           "node_type": "item",
           "title": "🧰 Open Ralph Wiggum",
-          "description": "GitHubTh0rgal/open-ralph-wiggum Agent-agnostic CLI that runs the Ralph Wiggum loop by feeding the same prompt to a fresh agent instance each iteration, with task tracking, live status monitoring, and mid-loop context injection across six coding-agent backends. Source implementation",
+          "description": "2026 · GitHubTh0rgal/open-ralph-wiggum · License: MIT Agent-agnostic CLI that runs the Ralph Wiggum loop by feeding the same prompt to a fresh agent instance each iteration, with task tracking, live status monitoring, and mid-loop context injection across six coding-agent backends. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -729,7 +729,7 @@
             "open_issues": 8,
             "owner": "Th0rgal",
             "repo": "open-ralph-wiggum",
-            "stars": 1889,
+            "stars": 1890,
             "topics": [
               "claude-code",
               "open-code",
@@ -743,7 +743,7 @@
         {
           "node_type": "item",
           "title": "🧰 Gas Town",
-          "description": "GitHubsteveyegge/gastown Steve Yegge's multi-agent orchestrator that runs 20-30 parallel coding agents with coordinator, worker, and merge-queue roles; the structured-orchestration end of the spectrum that Ralph anchors with bare iteration. Source implementation",
+          "description": "2025 · GitHubgastownhall/gastown · License: MIT Steve Yegge's multi-agent orchestrator that runs 20-30 parallel coding agents with coordinator, worker, and merge-queue roles; the structured-orchestration end of the spectrum that Ralph anchors with bare iteration. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -756,7 +756,7 @@
             "open_issues": 471,
             "owner": "gastownhall",
             "repo": "gastown",
-            "stars": 18084,
+            "stars": 18094,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -764,7 +764,7 @@
         {
           "node_type": "item",
           "title": "🧰 karl",
-          "description": "GitHubkayoslab/karl Autonomous multi-agent development loop with planner, reviewer, architect, tester, developer, deployment, and retry phases. Source implementation",
+          "description": "2026 · GitHubkayoslab/karl · License: MIT Autonomous multi-agent development loop with planner, reviewer, architect, tester, developer, deployment, and retry phases. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -785,7 +785,7 @@
         {
           "node_type": "item",
           "title": "🔁 joelclaw agent-loop skill",
-          "description": "GitHubjoelhooks/joelclaw Durable Planner-Implementor-Reviewer-Judge coding loops via Inngest events and progress files. Operational pattern",
+          "description": "2026 · GitHubjoelhooks/joelclaw Durable Planner-Implementor-Reviewer-Judge coding loops via Inngest events and progress files. Operational pattern",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -806,7 +806,7 @@
         {
           "node_type": "item",
           "title": "🧰 ARIS (Auto-Research-In-Sleep)",
-          "description": "GitHubwanshuiyin/Auto-claude-code-research-in-sleep Markdown-only skills that run autonomous overnight ML research loops on Claude Code, Codex, or other LLM agents, iterating idea discovery and experiments with cross-model review as the verification gate. Source implementation",
+          "description": "2026 · GitHubwanshuiyin/Auto-claude-code-research-in-sleep · License: MIT Markdown-only skills that run autonomous overnight ML research loops on Claude Code, Codex, or other LLM agents, iterating idea discovery and experiments with cross-model review as the verification gate. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -815,11 +815,11 @@
             "id": 1177608268,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:50:56Z",
+            "last_commit": "2026-09-17T05:32:27Z",
             "open_issues": 68,
             "owner": "wanshuiyin",
             "repo": "Auto-claude-code-research-in-sleep",
-            "stars": 16209,
+            "stars": 16273,
             "topics": [
               "ai-research",
               "ai-tools",
@@ -848,7 +848,7 @@
         {
           "node_type": "item",
           "title": "🧰 AutoAgent",
-          "description": "GitHubkevinrgu/autoagent Meta-agent that autonomously edits its own harness (system prompt, tools, orchestration), re-runs the benchmark, and keeps or discards each change by score, with an author-reported top SpreadsheetBench result from a 24-hour unattended run. Source implementation",
+          "description": "2026 · GitHubthirdlayerinc/autoagent Meta-agent that autonomously edits its own harness (system prompt, tools, orchestration), re-runs the benchmark, and keeps or discards each change by score, with an author-reported top SpreadsheetBench result from a 24-hour unattended run. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -869,7 +869,7 @@
         {
           "node_type": "item",
           "title": "🧰 zeroshot",
-          "description": "GitHubthe-open-engine/zeroshot CLI that runs a planner, an implementer, and independent validators in isolated environments, looping until a change is verified or rejected with reproducible failures. Source implementation",
+          "description": "2025 · GitHubthe-open-engine/zeroshot · License: MIT CLI that runs a planner, an implementer, and independent validators in isolated environments, looping until a change is verified or rejected with reproducible failures. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -882,7 +882,7 @@
             "open_issues": 86,
             "owner": "the-open-engine",
             "repo": "zeroshot",
-            "stars": 1835,
+            "stars": 1839,
             "topics": [
               "agent-loops",
               "agent-orchestration",
@@ -907,7 +907,7 @@
         {
           "node_type": "item",
           "title": "🧰 Loki Mode",
-          "description": "GitHubasklokesh/loki-mode Autonomous spec-to-app loop that runs Reason-Act-Reflect-Verify cycles behind quality gates, with completion gated by a blind three-reviewer council and a deterministic evidence receipt that rejects empty diffs and failing tests. Source implementation",
+          "description": "2025 · GitHubasklokesh/loki-mode Autonomous spec-to-app loop that runs Reason-Act-Reflect-Verify cycles behind quality gates, with completion gated by a blind three-reviewer council and a deterministic evidence receipt that rejects empty diffs and failing tests. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -920,7 +920,7 @@
             "open_issues": 13,
             "owner": "asklokesh",
             "repo": "loki-mode",
-            "stars": 1065,
+            "stars": 1066,
             "topics": [
               "ai-agents",
               "aider",
@@ -948,7 +948,7 @@
         {
           "node_type": "item",
           "title": "🧰 Looper",
-          "description": "GitHubksimback/looper Claude Code skill for designing review-gated agent loops before running them, coaching the user into a portable loop.yaml spec with explicit goals, typed verification, iteration caps, and budget limits, then emitting artifacts runnable in-session or via an external Python runner. Source implementation",
+          "description": "2026 · GitHubksimback/looper · License: MIT Claude Code skill for designing review-gated agent loops before running them, coaching the user into a portable loop.yaml spec with explicit goals, typed verification, iteration caps, and budget limits, then emitting artifacts runnable in-session or via an external Python runner. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -976,7 +976,7 @@
         {
           "node_type": "item",
           "title": "🧰 Agent Apprenticeship",
-          "description": "GitHubForsy-AI/agent-apprenticeship Multi-backend ecosystem where apprentice agents complete tasks through workflow loops, mentors or humans verify results, and execution traces are compiled into a published dataset that feeds future agent improvement. Source implementation",
+          "description": "2026 · GitHubray-r-ren/agent-apprenticeship · License: MIT Multi-backend ecosystem where apprentice agents complete tasks through workflow loops, mentors or humans verify results, and execution traces are compiled into a published dataset that feeds future agent improvement. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -989,7 +989,7 @@
             "open_issues": 0,
             "owner": "ray-r-ren",
             "repo": "agent-apprenticeship",
-            "stars": 1332,
+            "stars": 1618,
             "topics": [
               "agent-apprenticeship",
               "agent-economy",
@@ -1018,7 +1018,7 @@
         {
           "node_type": "item",
           "title": "🧰 Scholar Loop",
-          "description": "GitHubrenee-jia/scholar-loop Autonomous multi-agent research loop from literature to hypothesis to real ML experiments to write-up, scoring every checkable agent claim against frozen ground-truth metrics and shipping an adversarial cheater engine that probes the loop for reward-hacking gaps. Source implementation",
+          "description": "2026 · GitHubrenee-jia/scholar-loop · License: MIT Autonomous multi-agent research loop from literature to hypothesis to real ML experiments to write-up, scoring every checkable agent claim against frozen ground-truth metrics and shipping an adversarial cheater engine that probes the loop for reward-hacking gaps. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1031,7 +1031,7 @@
             "open_issues": 0,
             "owner": "renee-jia",
             "repo": "scholar-loop",
-            "stars": 469,
+            "stars": 470,
             "topics": [
               "ai-research",
               "autonomous-agents",
@@ -1044,7 +1044,7 @@
         {
           "node_type": "item",
           "title": "🧰 loop-engineering (Cobus Greyling)",
-          "description": "GitHubcobusgreyling/loop-engineering Patterns-and-tooling repo shipping seven npm CLIs (loop-init, loop-audit, loop-cost, loop-sync, loop-context, loop-mcp-server, loop-worktree), starter kits, and production loop patterns; scaffolds skills/state/budget files, scores a repo's \"Loop Ready\" readiness, detects state drift, and estimates token spend per cadence for Claude Code, Codex, OpenCode, and Grok loops. Source implementation",
+          "description": "2026 · GitHubcobusgreyling/loop-engineering · License: MIT Patterns-and-tooling repo shipping seven npm CLIs (loop-init, loop-audit, loop-cost, loop-sync, loop-context, loop-mcp-server, loop-worktree), starter kits, and production loop patterns; scaffolds skills/state/budget files, scores a repo's \"Loop Ready\" readiness, detects state drift, and estimates token spend per cadence for Claude Code, Codex, OpenCode, and Grok loops. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1053,11 +1053,11 @@
             "id": 1263648864,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T08:01:47Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-17T08:01:42Z",
+            "open_issues": 9,
             "owner": "cobusgreyling",
             "repo": "loop-engineering",
-            "stars": 11234,
+            "stars": 11237,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -1083,7 +1083,7 @@
         {
           "node_type": "item",
           "title": "🧰 AutoCVE",
-          "description": "GitHublarlarua/AutoCVE Open-source agent-driven CVE discovery platform whose orchestrator coordinates Recon, Scan, Triage, Finding, and Verification agents through ReAct loops with correction nudges and structured FinalizeFinding termination, running the full discover, source-audit, dynamic-verify, dedup, and report loop on a self-hosted FastAPI/React/PostgreSQL stack with agent-tree observability. Source implementation",
+          "description": "2026 · GitHublarlarua/AutoCVE · License: AGPL-3.0 Open-source agent-driven CVE discovery platform whose orchestrator coordinates Recon, Scan, Triage, Finding, and Verification agents through ReAct loops with correction nudges and structured FinalizeFinding termination, running the full discover, source-audit, dynamic-verify, dedup, and report loop on a self-hosted FastAPI/React/PostgreSQL stack with agent-tree observability. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1096,7 +1096,7 @@
             "open_issues": 14,
             "owner": "larlarua",
             "repo": "AutoCVE",
-            "stars": 1410,
+            "stars": 1412,
             "topics": [
               "agent",
               "ai-security",
@@ -1119,7 +1119,7 @@
         {
           "node_type": "item",
           "title": "🧰 LoongFlow (Baidu)",
-          "description": "GitHubbaidu-baige/LoongFlow Baidu's open-source agent framework built explicitly for Loop Engineering: a Plan-Execute-Summary loop with structured experiential memory lets agents plan, execute, reflect, and evolve across software-engineering, math, and ML tasks (Apache-2.0, on PyPI, paper: arXiv 2512.24077). Source implementation",
+          "description": "2025 · GitHubbaidu-baige/LoongFlow · License: Apache-2.0 Baidu's open-source agent framework built explicitly for Loop Engineering: a Plan-Execute-Summary loop with structured experiential memory lets agents plan, execute, reflect, and evolve across software-engineering, math, and ML tasks (Apache-2.0, on PyPI, paper: arXiv 2512.24077). Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1160,7 +1160,7 @@
         {
           "node_type": "item",
           "title": "🧰 cc10x",
-          "description": "GitHubromiluz13/cc10x Claude Code plugin that routes work through one router, nine specialist agents, sixteen skills, and four workflows, enforcing fail-closed verification and test-honesty gates and writing each workflow's intent, evidence, and verdicts to durable .cc10x/ disk artifacts so resume and review survive context compaction. Source implementation",
+          "description": "2025 · GitHubromiluz13/cc10x · License: MIT Claude Code plugin that routes work through one router, nine specialist agents, sixteen skills, and four workflows, enforcing fail-closed verification and test-honesty gates and writing each workflow's intent, evidence, and verdicts to durable .cc10x/ disk artifacts so resume and review survive context compaction. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1191,7 +1191,7 @@
         {
           "node_type": "item",
           "title": "🧰 RigorLoop",
-          "description": "GitHubronikobrosly/RigorLoop Statistically-grounded loop-engineering framework in which a strategy agent directs concurrent executor agents that iteratively build and refine a solution against gold-standard examples. Source implementation",
+          "description": "2026 · GitHubronikobrosly/RigorLoop · License: MIT Statistically-grounded loop-engineering framework in which a strategy agent directs concurrent executor agents that iteratively build and refine a solution against gold-standard examples. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1212,7 +1212,7 @@
         {
           "node_type": "item",
           "title": "🧰 Open-Inspect",
-          "description": "GitHubColeMurray/background-agents Open-source background coding-agent system inspired by Ramp's Inspect: hosted agents in full dev-environment sandboxes, reachable from a web UI, Slack, GitHub PRs, Linear, or webhooks. Source implementation",
+          "description": "2026 · GitHubColeMurray/background-agents · License: MIT Open-source background coding-agent system inspired by Ramp's Inspect: hosted agents in full dev-environment sandboxes, reachable from a web UI, Slack, GitHub PRs, Linear, or webhooks. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1221,11 +1221,11 @@
             "id": 1141974122,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:09:18Z",
-            "open_issues": 113,
+            "last_commit": "2026-09-17T16:36:15Z",
+            "open_issues": 115,
             "owner": "ColeMurray",
             "repo": "background-agents",
-            "stars": 3232,
+            "stars": 3245,
             "topics": [
               "background-agents",
               "cloud-agents",
@@ -1237,7 +1237,7 @@
         {
           "node_type": "item",
           "title": "🧰 T3MP3ST",
-          "description": "GitHubelder-plinius/T3MP3ST Multi-agent offensive-security meta-harness that turns an existing coding agent into an autonomous vulnerability-research loop, with a verify-claims receipt step that separates confirmed findings from speculation. Source implementation",
+          "description": "2026 · GitHubelder-plinius/T3MP3ST · License: AGPL-3.0 Multi-agent offensive-security meta-harness that turns an existing coding agent into an autonomous vulnerability-research loop, with a verify-claims receipt step that separates confirmed findings from speculation. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1250,7 +1250,7 @@
             "open_issues": 5,
             "owner": "elder-plinius",
             "repo": "T3MP3ST",
-            "stars": 6152,
+            "stars": 6173,
             "topics": [
               "agents",
               "ai",
@@ -1264,7 +1264,7 @@
         {
           "node_type": "item",
           "title": "🧰 Loom",
-          "description": "GitHubvalkor-ai/loom Open-source delivery harness for existing coding agents that treats delivery as a durable loop: route, execute, verify, record evidence, repair, and continue from saved state. Source implementation",
+          "description": "2026 · GitHubvalkor-ai/loom · License: Apache-2.0 Open-source delivery harness for existing coding agents that treats delivery as a durable loop: route, execute, verify, record evidence, repair, and continue from saved state. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1277,7 +1277,7 @@
             "open_issues": 3,
             "owner": "valkor-ai",
             "repo": "loom",
-            "stars": 1036,
+            "stars": 1042,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -1285,7 +1285,7 @@
         {
           "node_type": "item",
           "title": "🧰 Inferoa",
-          "description": "GitHubagentic-in/inferoa Inference-native agent harness for loop engineering that treats every loop as an inference workload, shaping each turn to preserve cacheable prefixes and bound stale evidence. Source implementation",
+          "description": "2026 · GitHubagentic-in/inferoa · License: Apache-2.0 Inference-native agent harness for loop engineering that treats every loop as an inference workload, shaping each turn to preserve cacheable prefixes and bound stale evidence. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1317,7 +1317,7 @@
         {
           "node_type": "item",
           "title": "🧰 PlanWeave",
-          "description": "GitHubGaosCode/PlanWeave File-backed loop-engineering system for long-running coding agents that turns fuzzy plans into a claimable task graph of nodes and block documents routed through implementation and review. Source implementation",
+          "description": "2026 · GitHubGaosCode/PlanWeave · License: MIT File-backed loop-engineering system for long-running coding agents that turns fuzzy plans into a claimable task graph of nodes and block documents routed through implementation and review. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1330,7 +1330,7 @@
             "open_issues": 0,
             "owner": "GaosCode",
             "repo": "PlanWeave",
-            "stars": 392,
+            "stars": 394,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -1338,7 +1338,7 @@
         {
           "node_type": "item",
           "title": "🧰 loop.js",
-          "description": "GitHubloop-js/loop.js TypeScript loop-engineering framework that runs an agent in rounds against a stated goal until a skeptical, read-only verifier agent accepts the result or a budget is exhausted. Source implementation",
+          "description": "2026 · GitHubloop-js/loop.js · License: Apache-2.0 TypeScript loop-engineering framework that runs an agent in rounds against a stated goal until a skeptical, read-only verifier agent accepts the result or a budget is exhausted. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1373,7 +1373,7 @@
         {
           "node_type": "item",
           "title": "🧰 ai-trains-ai",
-          "description": "GitHubDanau5tin/ai-trains-ai Recursive training loop where a trainer agent autonomously writes complete reinforcement-learning jobs (environments, rewards, configs), runs them, and iterates on the results. Source implementation",
+          "description": "2026 · GitHubDanau5tin/ai-trains-ai · License: MIT Recursive training loop where a trainer agent autonomously writes complete reinforcement-learning jobs (environments, rewards, configs), runs them, and iterates on the results. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1394,7 +1394,7 @@
         {
           "node_type": "item",
           "title": "🧰 Webwright",
-          "description": "GitHubmicrosoft/Webwright Treats workspace code, screenshots, and run artifacts as durable state while browsers remain disposable, producing a readable write-run-inspect-repair loop for long-horizon web tasks. Source implementation",
+          "description": "2026 · GitHubmicrosoft/Webwright · License: MIT Treats workspace code, screenshots, and run artifacts as durable state while browsers remain disposable, producing a readable write-run-inspect-repair loop for long-horizon web tasks. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1407,7 +1407,7 @@
             "open_issues": 49,
             "owner": "microsoft",
             "repo": "Webwright",
-            "stars": 6002,
+            "stars": 6003,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -1415,7 +1415,7 @@
         {
           "node_type": "item",
           "title": "🧰 DeerFlow",
-          "description": "GitHubbytedance/deer-flow ByteDance's open-source long-horizon SuperAgent harness that researches, codes, and creates across extended multi-step runs, one of the most widely adopted open agent harnesses. Source implementation",
+          "description": "2025 · GitHubbytedance/deer-flow · License: MIT ByteDance's open-source long-horizon SuperAgent harness that researches, codes, and creates across extended multi-step runs, one of the most widely adopted open agent harnesses. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1424,11 +1424,11 @@
             "id": 979115477,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T15:57:39Z",
-            "open_issues": 889,
+            "last_commit": "2026-09-17T14:40:26Z",
+            "open_issues": 883,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 82538,
+            "stars": 82585,
             "topics": [
               "agent",
               "agentic",
@@ -1455,7 +1455,7 @@
         {
           "node_type": "item",
           "title": "🧰 Grok Build",
-          "description": "GitHubxai-org/grok-build xAI's official agentic coding CLI that plans, edits, and verifies changes in a repository, joining the major vendor coding-agent runtimes. Source implementation",
+          "description": "2026 · GitHubxai-org/grok-build · License: Apache-2.0 xAI's official agentic coding CLI that plans, edits, and verifies changes in a repository, joining the major vendor coding-agent runtimes. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1468,7 +1468,7 @@
             "open_issues": 0,
             "owner": "xai-org",
             "repo": "grok-build",
-            "stars": 26793,
+            "stars": 26818,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -1497,7 +1497,7 @@
         {
           "node_type": "item",
           "title": "🧰 Finn-loop",
-          "description": "GitHubfinna/Finn-loop Three Claude Code skills from Alex Finn that turn Linear + GitHub into a small, human-gated software factory: /finn-spec interviews you until the behavior is unambiguous and files a Linear issue with acceptance criteria and non-goals, /finn-build claims the next agent-ready issue and opens a PR (run repeatedly via the /loop primitive), and /finn-review posts loop-approved or changes-requested verdicts against required CI checks, one approval label, one rule: humans merge. Source implementation",
+          "description": "2026 · GitHubfinna/Finn-loop · License: MIT Three Claude Code skills from Alex Finn that turn Linear + GitHub into a small, human-gated software factory: /finn-spec interviews you until the behavior is unambiguous and files a Linear issue with acceptance criteria and non-goals, /finn-build claims the next agent-ready issue and opens a PR (run repeatedly via the /loop primitive), and /finn-review posts loop-approved or changes-requested verdicts against required CI checks, one approval label, one rule: humans merge. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1510,7 +1510,7 @@
             "open_issues": 4,
             "owner": "finna",
             "repo": "Finn-loop",
-            "stars": 309,
+            "stars": 311,
             "topics": [
               "agentic-workflows",
               "ai-agents",
@@ -1525,7 +1525,7 @@
         {
           "node_type": "item",
           "title": "🧰 ECC",
-          "description": "GitHubaffaan-m/ECC Self-described agent harness operating system, packaging planning, execution, and optimization for coding agents behind one runtime with documentation in several languages. Very widely starred; treat adoption counts as a popularity signal rather than a quality judgement and read the source before relying on it. Source implementation",
+          "description": "2026 · GitHubaffaan-m/ECC · License: MIT Self-described agent harness operating system, packaging planning, execution, and optimization for coding agents behind one runtime with documentation in several languages. Very widely starred; treat adoption counts as a popularity signal rather than a quality judgement and read the source before relying on it. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1534,11 +1534,11 @@
             "id": 1136590548,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T19:33:00Z",
-            "open_issues": 216,
+            "last_commit": "2026-09-17T17:13:32Z",
+            "open_issues": 226,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 259947,
+            "stars": 261083,
             "topics": [
               "ai-agents",
               "anthropic",
@@ -1555,7 +1555,7 @@
         {
           "node_type": "item",
           "title": "🧰 LongHorizon-Harness",
-          "description": "GitHubAMAP-ML/LongHorizon-Harness Runnable implementation of the Manage-Execute-Audit loop, driving agents across desktop apps and the CLI over long sessions with fresh-context execution, durable verified state, independent auditing, and recoverable progress. Integrates with Claude Code, Codex, and OpenClaw. MIT. Source implementation",
+          "description": "2026 · GitHubAMAP-ML/LongHorizon-Harness · License: MIT Runnable implementation of the Manage-Execute-Audit loop, driving agents across desktop apps and the CLI over long sessions with fresh-context execution, durable verified state, independent auditing, and recoverable progress. Integrates with Claude Code, Codex, and OpenClaw. MIT. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1568,7 +1568,7 @@
             "open_issues": 39,
             "owner": "AMAP-ML",
             "repo": "LongHorizon-Harness",
-            "stars": 1565,
+            "stars": 1583,
             "topics": [
               "agent",
               "claude",
@@ -1594,7 +1594,7 @@
         {
           "node_type": "item",
           "title": "🧰 DeepCode",
-          "description": "GitHubHKUDS/DeepCode Multi-agent coding system built around verification-driven repair: a failed check becomes the input to the next attempt, and the run continues until evidence supports completion or the task is judged blocked. Sessions persist tool calls, permission decisions, and verification records for exact replay, and parallel agents work in isolated Git worktrees. MIT. Source implementation",
+          "description": "2025 · GitHubHKUDS/DeepCode · License: MIT Multi-agent coding system built around verification-driven repair: a failed check becomes the input to the next attempt, and the run continues until evidence supports completion or the task is judged blocked. Sessions persist tool calls, permission decisions, and verification records for exact replay, and parallel agents work in isolated Git worktrees. MIT. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1603,11 +1603,11 @@
             "id": 983246568,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T07:35:48Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-17T02:54:14Z",
+            "open_issues": 18,
             "owner": "HKUDS",
             "repo": "DeepCode",
-            "stars": 16545,
+            "stars": 16549,
             "topics": [
               "agentic-coding",
               "harness-engineering",
@@ -1619,7 +1619,7 @@
         {
           "node_type": "item",
           "title": "🧰 OpenHarness",
-          "description": "GitHubHKUDS/OpenHarness Deliberately small, readable harness for seeing how one works from the inside: 43 tools, on-demand skill loading, auto-compaction that carries task state across long sessions, and three permission modes from prompt-before-write through plan-only. PreToolUse and PostToolUse hooks expose the lifecycle. MIT. Source implementation",
+          "description": "2026 · GitHubHKUDS/OpenHarness · License: MIT Deliberately small, readable harness for seeing how one works from the inside: 43 tools, on-demand skill loading, auto-compaction that carries task state across long sessions, and three permission modes from prompt-before-write through plan-only. PreToolUse and PostToolUse hooks expose the lifecycle. MIT. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1632,10 +1632,52 @@
             "open_issues": 88,
             "owner": "HKUDS",
             "repo": "OpenHarness",
-            "stars": 15767,
+            "stars": 15781,
             "topics": []
           },
           "first_seen": "2026-08-31T19:29:02.762Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 YYLO",
+          "description": "2026 · GitHubyylo-dev/yylo · License: MIT Command-line orchestrator that runs each coding-agent task in its own Git worktree bound to a recorded target, then gates completion on validation. Review depth scales with assessed risk, and the review cycle ends on an explicit REVIEW_FINDINGS_EXHAUSTED stop rather than looping indefinitely. MIT. Source implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "YYLO (why-lo): AI coding-agent orchestration CLI with equivalent yylo and yy launchers.",
+            "homepage": "https://yylo.dev",
+            "id": 1129206072,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-17T16:39:24Z",
+            "open_issues": 10,
+            "owner": "yylo-dev",
+            "repo": "yylo",
+            "stars": 60,
+            "topics": [
+              "agentic-coding-approved",
+              "agentic-coding-rules",
+              "agentic-coding-tool",
+              "agentic-coding-tools",
+              "agentic-coding-workflow",
+              "ai-agent",
+              "ai-native-development",
+              "aider",
+              "autonomous-agents",
+              "claude-code",
+              "coding-agent",
+              "developer-tools",
+              "developer-tools-ai-agent",
+              "developer-tools-productivity",
+              "git-workflow",
+              "local-first",
+              "pi-agent",
+              "ralph-loop",
+              "ralph-wiggum",
+              "yylo"
+            ]
+          },
+          "first_seen": "2026-09-17T17:35:54.291Z"
         }
       ],
       "title": "Coding-Agent Loop Systems"
@@ -1646,7 +1688,7 @@
         {
           "node_type": "item",
           "title": "🧰 HALO (Hierarchical Agent Loop Optimizer)",
-          "description": "GitHubcontext-labs/halo Analyzes production agent traces to find harness-level failure modes, hands its report to a coding agent to apply fixes, and repeats the collect-analyze-fix-redeploy cycle, reporting AppWorld gains from harness changes alone. Source implementation",
+          "description": "2026 · GitHubcontext-labs/halo Analyzes production agent traces to find harness-level failure modes, hands its report to a coding agent to apply fixes, and repeats the collect-analyze-fix-redeploy cycle, reporting AppWorld gains from harness changes alone. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1659,7 +1701,7 @@
             "open_issues": 13,
             "owner": "context-labs",
             "repo": "HALO",
-            "stars": 1172,
+            "stars": 1174,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -1667,7 +1709,7 @@
         {
           "node_type": "item",
           "title": "🧰 auto-harness",
-          "description": "GitHubneosigmaai/auto-harness Bring-your-own-agent framework for self-improving agentic systems that mines failures from runs, optimizes the harness in response, and gates every change behind regression checks. Source implementation",
+          "description": "2026 · GitHubneosigmaai/auto-harness · License: MIT Bring-your-own-agent framework for self-improving agentic systems that mines failures from runs, optimizes the harness in response, and gates every change behind regression checks. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1688,7 +1730,7 @@
         {
           "node_type": "item",
           "title": "🧰 Inspect AI",
-          "description": "GitHubUKGovernmentBEIS/inspect_ai UK AISI evaluation framework with solvers, scorers, sandboxing, tool use, MCP, and log viewing. Source implementation",
+          "description": "2023 · GitHubUKGovernmentBEIS/inspect_ai · License: MIT UK AISI evaluation framework with solvers, scorers, sandboxing, tool use, MCP, and log viewing. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1697,11 +1739,11 @@
             "id": 718665019,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:31:17Z",
-            "open_issues": 317,
+            "last_commit": "2026-09-17T17:07:06Z",
+            "open_issues": 308,
             "owner": "UKGovernmentBEIS",
             "repo": "inspect_ai",
-            "stars": 2784,
+            "stars": 2798,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -1709,7 +1751,7 @@
         {
           "node_type": "item",
           "title": "🧰 AgentOps",
-          "description": "GitHubAgentOps-AI/agentops Monitoring, replay, cost tracking, benchmarking, and tracing for agent sessions. Source implementation",
+          "description": "2023 · GitHubAgentOps-AI/agentops · License: MIT Monitoring, replay, cost tracking, benchmarking, and tracing for agent sessions. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1722,7 +1764,7 @@
             "open_issues": 181,
             "owner": "AgentOps-AI",
             "repo": "agentops",
-            "stars": 5822,
+            "stars": 5824,
             "topics": [
               "agent",
               "agentops",
@@ -1748,7 +1790,7 @@
         {
           "node_type": "item",
           "title": "🧰 Langfuse",
-          "description": "GitHublangfuse/langfuse Open-source LLM engineering platform with tracing, evaluations, and metrics that loops can read back as feedback signals. Source implementation",
+          "description": "2023 · GitHublangfuse/langfuse Open-source LLM engineering platform with tracing, evaluations, and metrics that loops can read back as feedback signals. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1757,11 +1799,11 @@
             "id": 642497346,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T17:01:06Z",
-            "open_issues": 958,
+            "last_commit": "2026-09-17T16:53:55Z",
+            "open_issues": 908,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 34692,
+            "stars": 34728,
             "topics": [
               "analytics",
               "autogen",
@@ -1789,7 +1831,7 @@
         {
           "node_type": "item",
           "title": "🧰 Arize Phoenix",
-          "description": "GitHubArize-ai/phoenix Open-source AI observability for tracing, evaluating, and debugging agent behavior from real runs. Source implementation",
+          "description": "2022 · GitHubArize-ai/phoenix Open-source AI observability for tracing, evaluating, and debugging agent behavior from real runs. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1798,11 +1840,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T17:18:51Z",
+            "last_commit": "2026-09-17T17:25:18Z",
             "open_issues": 1009,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11489,
+            "stars": 11517,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -1827,7 +1869,7 @@
         {
           "node_type": "item",
           "title": "🧰 agentops (boshu2)",
-          "description": "GitHubboshu2/agentops Independent verification layer for coding agents where a change only counts as done after a different model or a real test checks it, with the verdict recorded in the repo via a tamper-evident ledger. Source implementation",
+          "description": "2025 · GitHubboshu2/agentops · License: Apache-2.0 Independent verification layer for coding agents where a change only counts as done after a different model or a real test checks it, with the verdict recorded in the repo via a tamper-evident ledger. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1836,7 +1878,7 @@
             "id": 1090518613,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T15:48:15Z",
+            "last_commit": "2026-09-17T03:36:53Z",
             "open_issues": 2,
             "owner": "boshu2",
             "repo": "agentops",
@@ -1860,7 +1902,7 @@
         {
           "node_type": "item",
           "title": "🧰 SkillSpec",
-          "description": "GitHubmodiqo/skillspec CLI that makes agent skills followable, testable, and provable by converting prose skills into structured contracts, scoring follow-through risk, and generating execution traces of which steps ran, were skipped, and what evidence exists. Source implementation",
+          "description": "2026 · GitHubmodiqo/skillspec · License: Apache-2.0 CLI that makes agent skills followable, testable, and provable by converting prose skills into structured contracts, scoring follow-through risk, and generating execution traces of which steps ran, were skipped, and what evidence exists. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1886,7 +1928,7 @@
         {
           "node_type": "item",
           "title": "🧰 Shepherd",
-          "description": "GitHubshepherd-agents/shepherd Python runtime that records agent execution as reversible, Git-like traces so meta-agents or humans can observe, fork, replay, and revert any run before results touch files, with copy-on-write forking, roughly 95% cache reuse on replay, and syscall-level permission enforcement. Source implementation",
+          "description": "2026 · GitHubshepherd-agents/shepherd · License: MIT Python runtime that records agent execution as reversible, Git-like traces so meta-agents or humans can observe, fork, replay, and revert any run before results touch files, with copy-on-write forking, roughly 95% cache reuse on replay, and syscall-level permission enforcement. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1899,7 +1941,7 @@
             "open_issues": 12,
             "owner": "shepherd-agents",
             "repo": "shepherd",
-            "stars": 2416,
+            "stars": 2430,
             "topics": [
               "mcts-rl",
               "meta-agents",
@@ -1914,7 +1956,7 @@
         {
           "node_type": "item",
           "title": "🧰 grill-for-unknowns",
-          "description": "GitHubnicobailon/grill-for-unknowns Portable SKILL.md agent skill that gates long-running subagent and coding-agent launches behind plan interrogation: it inspects the real territory (docs, source, tests, config) first, sorts what's known into facts, decisions, domain language, and unknowns across known/unknown quadrants, then emits a launch packet with assumptions, verification steps, and rollback risks before dispatch. Source implementation",
+          "description": "2026 · GitHubnicobailon/grill-for-unknowns · License: MIT Portable SKILL.md agent skill that gates long-running subagent and coding-agent launches behind plan interrogation: it inspects the real territory (docs, source, tests, config) first, sorts what's known into facts, decisions, domain language, and unknowns across known/unknown quadrants, then emits a launch packet with assumptions, verification steps, and rollback risks before dispatch. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1935,7 +1977,7 @@
         {
           "node_type": "item",
           "title": "🧰 Fable Harness",
-          "description": "GitHubMiguok/fable-harness Drop-in behavior protocol kit (hooks, a skill, and sub-agents auto-injected into every Claude Code session) enforcing a verify-first process: gather evidence before answering and verify changes before declaring done. Source implementation",
+          "description": "2026 · GitHubMiguok/fable-harness · License: MIT Drop-in behavior protocol kit (hooks, a skill, and sub-agents auto-injected into every Claude Code session) enforcing a verify-first process: gather evidence before answering and verify changes before declaring done. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1969,7 +2011,7 @@
             "open_issues": 16,
             "owner": "cosmtrek",
             "repo": "mindwalk",
-            "stars": 1343,
+            "stars": 1350,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -1977,7 +2019,7 @@
         {
           "node_type": "item",
           "title": "🧰 Waggle",
-          "description": "GitHubmodiqo/waggle MCP-native reference layer for agent handoffs: instead of pasting full context between agents, it passes a compact attributed, resolvable reference token that the receiving agent expands on demand. Source implementation",
+          "description": "2026 · GitHubmodiqo/waggle · License: Apache-2.0 MCP-native reference layer for agent handoffs: instead of pasting full context between agents, it passes a compact attributed, resolvable reference token that the receiving agent expands on demand. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2003,7 +2045,7 @@
         {
           "node_type": "item",
           "title": "🧰 Jacquard",
-          "description": "GitHubjbwinters/jacquard-lang Research language designed around the machine-writes, human-verifies contract, using effect-typed signatures so an agent's generated code carries checkable declarations of what it is allowed to touch. Source implementation",
+          "description": "2026 · GitHubjbwinters/jacquard-lang · License: Apache-2.0 Research language designed around the machine-writes, human-verifies contract, using effect-typed signatures so an agent's generated code carries checkable declarations of what it is allowed to touch. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2032,7 +2074,7 @@
         {
           "node_type": "item",
           "title": "🧰 brain0",
-          "description": "GitHubBrain0-ai/brain0 Black-box decision graph for AI-written code that records why an agent made each change, making agent-authored diffs inspectable after the fact. Source implementation",
+          "description": "2026 · GitHubBrain0-ai/brain0 · License: Apache-2.0 Black-box decision graph for AI-written code that records why an agent made each change, making agent-authored diffs inspectable after the fact. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2074,7 +2116,7 @@
         {
           "node_type": "item",
           "title": "🧰 Watch Skill",
-          "description": "GitHuboxbshw/watch-skill Video understanding and self-verification layer that turns videos, streams, and agent screen recordings into searchable evidence an agent can check its own work against. Source implementation",
+          "description": "2026 · GitHuboxbshw/watch-skill · License: MIT Video understanding and self-verification layer that turns videos, streams, and agent screen recordings into searchable evidence an agent can check its own work against. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2087,7 +2129,7 @@
             "open_issues": 2,
             "owner": "oxbshw",
             "repo": "watch-skill",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "agent-observability",
               "agent-skills",
@@ -2116,7 +2158,7 @@
         {
           "node_type": "item",
           "title": "🧰 Auto",
-          "description": "GitHubRightNow-AI/auto Compiles recorded LLM-agent behavior into verified, capability-confined WebAssembly binaries, proving which parts of a loop are secretly symbolic and distilling them into deterministic code. Source implementation",
+          "description": "2026 · GitHubRightNow-AI/auto · License: Apache-2.0 Compiles recorded LLM-agent behavior into verified, capability-confined WebAssembly binaries, proving which parts of a loop are secretly symbolic and distilling them into deterministic code. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2129,7 +2171,7 @@
             "open_issues": 0,
             "owner": "RightNow-AI",
             "repo": "auto",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "agent",
               "ai-infrastructure",
@@ -2147,7 +2189,7 @@
         {
           "node_type": "item",
           "title": "🧰 Review Loop",
-          "description": "GitHubearendil-works/pi-review-loop First-party extension from earendil-works, the org behind the pi coding agent (77k stars): keeps a native review window open while the agent works, and submitting a review records the current workspace as a session-backed checkpoint so the next pass diffs only the increment (\"Since review\" vs \"vs HEAD\" modes), turning one-shot PR review into a persistent human-verification loop over continuous agent output. Source implementation",
+          "description": "2026 · GitHubearendil-works/pi-review-loop · License: MIT First-party extension from earendil-works, the org behind the pi coding agent (77k stars): keeps a native review window open while the agent works, and submitting a review records the current workspace as a session-backed checkpoint so the next pass diffs only the increment (\"Since review\" vs \"vs HEAD\" modes), turning one-shot PR review into a persistent human-verification loop over continuous agent output. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2160,7 +2202,7 @@
             "open_issues": 8,
             "owner": "earendil-works",
             "repo": "pi-review-loop",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "code-review",
               "developer-tools",
@@ -2182,11 +2224,11 @@
             "id": 1299769220,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:12:13Z",
-            "open_issues": 214,
+            "last_commit": "2026-09-17T17:10:12Z",
+            "open_issues": 221,
             "owner": "openai",
             "repo": "codex-security",
-            "stars": 10744,
+            "stars": 10749,
             "topics": [
               "ai-security",
               "application-security",
@@ -2210,7 +2252,7 @@
         {
           "node_type": "item",
           "title": "🧰 old-coder",
-          "description": "GitHubAmazingAng/old-coder Markdown skill that makes a coding agent prove its work instead of asking you to read every line: the agent pushes each change through a spec, then a gauntlet, then evidence. Plain instructions rather than a runtime, so it works with Claude Code, Codex CLI, Cursor, Aider, or a custom loop. Source implementation",
+          "description": "2026 · GitHubAmazingAng/old-coder · License: MIT Markdown skill that makes a coding agent prove its work instead of asking you to read every line: the agent pushes each change through a spec, then a gauntlet, then evidence. Plain instructions rather than a runtime, so it works with Claude Code, Codex CLI, Cursor, Aider, or a custom loop. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2223,7 +2265,7 @@
             "open_issues": 4,
             "owner": "AmazingAng",
             "repo": "old-coder",
-            "stars": 730,
+            "stars": 734,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2252,7 +2294,7 @@
         {
           "node_type": "item",
           "title": "🧰 sandbox-runtime",
-          "description": "GitHubanthropic-experimental/sandbox-runtime Anthropic's OS-level filesystem and network sandboxing for arbitrary processes without requiring a container. Source implementation",
+          "description": "2025 · GitHubanthropics/sandbox-runtime · License: Apache-2.0 Anthropic's OS-level filesystem and network sandboxing for arbitrary processes without requiring a container. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2262,10 +2304,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T14:57:08Z",
-            "open_issues": 206,
+            "open_issues": 211,
             "owner": "anthropics",
             "repo": "sandbox-runtime",
-            "stars": 5251,
+            "stars": 5260,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -2273,7 +2315,7 @@
         {
           "node_type": "item",
           "title": "🧰 E2B",
-          "description": "GitHube2b-dev/E2B Open-source isolated cloud sandboxes for running untrusted, AI-generated code inside agent loops. Source implementation",
+          "description": "2023 · GitHube2b-dev/E2B · License: Apache-2.0 Open-source isolated cloud sandboxes for running untrusted, AI-generated code inside agent loops. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2282,11 +2324,11 @@
             "id": 609539715,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:09:18Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-17T13:05:44Z",
+            "open_issues": 68,
             "owner": "e2b-dev",
             "repo": "E2B",
-            "stars": 13843,
+            "stars": 13855,
             "topics": [
               "agent",
               "ai",
@@ -2345,7 +2387,7 @@
         {
           "node_type": "item",
           "title": "🧰 Cloudflare security-audit-skill",
-          "description": "GitHubCloudflare/security-audit-skill Cloudflare's open-sourced six-phase audit pipeline in which separate validation agents try to disprove each finding and fresh agents independently verify every claim against source code, emitting schema-validated findings that accumulate across repeated runs. Source implementation",
+          "description": "2026 · GitHubCloudflare/security-audit-skill · License: MIT Cloudflare's open-sourced six-phase audit pipeline in which separate validation agents try to disprove each finding and fresh agents independently verify every claim against source code, emitting schema-validated findings that accumulate across repeated runs. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2355,10 +2397,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-14T19:29:02Z",
-            "open_issues": 8,
+            "open_issues": 27,
             "owner": "cloudflare",
             "repo": "security-audit-skill",
-            "stars": 6402,
+            "stars": 10147,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -2366,7 +2408,7 @@
         {
           "node_type": "item",
           "title": "🧰 destructive_command_guard",
-          "description": "GitHubDicklesworthstone/destructive_command_guard Rust safety hook that intercepts and blocks destructive Git and shell commands (hard resets, recursive deletes, database drops) before AI coding agents execute them, across Claude Code and other harnesses. Source implementation",
+          "description": "2026 · GitHubDicklesworthstone/destructive_command_guard Rust safety hook that intercepts and blocks destructive Git and shell commands (hard resets, recursive deletes, database drops) before AI coding agents execute them, across Claude Code and other harnesses. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2375,11 +2417,11 @@
             "id": 1130004860,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T14:43:49Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-17T17:30:44Z",
+            "open_issues": 20,
             "owner": "Dicklesworthstone",
             "repo": "destructive_command_guard",
-            "stars": 5993,
+            "stars": 5998,
             "topics": [
               "ai-agents",
               "cli",
@@ -2394,7 +2436,7 @@
         {
           "node_type": "item",
           "title": "🧰 Clawk",
-          "description": "GitHubclawkwork/clawk Runs coding agents inside disposable, network-restricted Linux VMs so an unattended or untrusted agent's blast radius is confined to a throwaway sandbox. Source implementation",
+          "description": "2026 · GitHubclawkwork/clawk · License: Apache-2.0 Runs coding agents inside disposable, network-restricted Linux VMs so an unattended or untrusted agent's blast radius is confined to a throwaway sandbox. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2426,7 +2468,7 @@
         {
           "node_type": "item",
           "title": "🧰 Clodex IDE",
-          "description": "GitHubmereyabdenbekuly-ctrl/clodex-ide Local-first zero-trust agentic IDE that confines agent actions behind explicit permission boundaries so untrusted or unattended runs stay contained. Source implementation",
+          "description": "2026 · GitHubmereyabdenbekuly-ctrl/clodex-ide · License: AGPL-3.0 Local-first zero-trust agentic IDE that confines agent actions behind explicit permission boundaries so untrusted or unattended runs stay contained. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2439,7 +2481,7 @@
             "open_issues": 25,
             "owner": "mereyabdenbekuly-ctrl",
             "repo": "clodex-ide",
-            "stars": 867,
+            "stars": 866,
             "topics": [
               "agentic-ai",
               "agentic-ide",
@@ -2463,7 +2505,7 @@
         {
           "node_type": "item",
           "title": "🧰 Mem0",
-          "description": "GitHubmem0ai/mem0 Open-source memory layer for retaining user, session, and agent state across repeated agent sessions. Source implementation",
+          "description": "2023 · GitHubmem0ai/mem0 · License: Apache-2.0 Open-source memory layer for retaining user, session, and agent state across repeated agent sessions. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2472,11 +2514,11 @@
             "id": 656099147,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T16:46:32Z",
-            "open_issues": 754,
+            "last_commit": "2026-09-17T16:29:05Z",
+            "open_issues": 759,
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 65417,
+            "stars": 65503,
             "topics": [
               "agentic-memory",
               "agentic-memory-system",
@@ -2499,7 +2541,7 @@
         {
           "node_type": "item",
           "title": "🧰 Letta",
-          "description": "GitHubletta-ai/letta Stateful agent framework from the MemGPT line with persistent, self-editing memory across runs. Source implementation",
+          "description": "2023 · GitHubletta-ai/letta · License: Apache-2.0 Stateful agent framework from the MemGPT line with persistent, self-editing memory across runs. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2512,7 +2554,7 @@
             "open_issues": 0,
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 24765,
+            "stars": 24776,
             "topics": [
               "ai",
               "ai-agents",
@@ -2525,7 +2567,7 @@
         {
           "node_type": "item",
           "title": "🧰 Zep",
-          "description": "GitHubgetzep/zep Temporal knowledge graph memory that tracks how facts about users and systems change across sessions. Source implementation",
+          "description": "2023 · GitHubgetzep/zep · License: Apache-2.0 Temporal knowledge graph memory that tracks how facts about users and systems change across sessions. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2534,11 +2576,11 @@
             "id": 634244448,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T18:31:30Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-17T03:43:32Z",
+            "open_issues": 38,
             "owner": "getzep",
             "repo": "zep",
-            "stars": 4919,
+            "stars": 4918,
             "topics": [
               "ai",
               "knowledge-graphs",
@@ -2551,7 +2593,7 @@
         {
           "node_type": "item",
           "title": "🧰 LangMem",
-          "description": "GitHublangchain-ai/langmem SDK for extracting, consolidating, and retrieving long-term agent memory between loop runs. Source implementation",
+          "description": "2025 · GitHublangchain-ai/langmem · License: MIT SDK for extracting, consolidating, and retrieving long-term agent memory between loop runs. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2564,7 +2606,7 @@
             "open_issues": 66,
             "owner": "langchain-ai",
             "repo": "langmem",
-            "stars": 1667,
+            "stars": 1670,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -2572,7 +2614,7 @@
         {
           "node_type": "item",
           "title": "🧰 Beads",
-          "description": "GitHubsteveyegge/beads Git-plus-SQLite issue and memory store that agents read and write with a CLI, giving recurring loops durable task state and progress that survives context resets. Source implementation",
+          "description": "2025 · GitHubgastownhall/beads · License: MIT Git-plus-SQLite issue and memory store that agents read and write with a CLI, giving recurring loops durable task state and progress that survives context resets. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2581,11 +2623,11 @@
             "id": 1074561042,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-16T09:53:27Z",
-            "open_issues": 1196,
+            "last_commit": "2026-09-16T20:07:41Z",
+            "open_issues": 1202,
             "owner": "gastownhall",
             "repo": "beads",
-            "stars": 27207,
+            "stars": 27291,
             "topics": [
               "agents",
               "claude-code",
@@ -2597,7 +2639,7 @@
         {
           "node_type": "item",
           "title": "🧰 GenericAgent",
-          "description": "GitHublsdefine/GenericAgent Self-evolving agent that grows a skill tree from a small seed, crystallizing completed runs into layered memory and reusable skills, with a master-worker mode for long-horizon goals. Source implementation",
+          "description": "2026 · GitHublsdefine/GenericAgent · License: MIT Self-evolving agent that grows a skill tree from a small seed, crystallizing completed runs into layered memory and reusable skills, with a master-worker mode for long-horizon goals. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2607,10 +2649,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-14T03:43:01Z",
-            "open_issues": 169,
+            "open_issues": 170,
             "owner": "lsdefine",
             "repo": "GenericAgent",
-            "stars": 14202,
+            "stars": 14214,
             "topics": [
               "ai-agent",
               "automation",
@@ -2634,7 +2676,7 @@
         {
           "node_type": "item",
           "title": "🧰 self-learning-skills",
-          "description": "GitHubKulaxyz/self-learning-skills Meta-skill for Claude Code, Cursor, and AGENTS.md-compatible agents that recognizes when a session has earned a hard-won golden path (or hit a dead-end worth remembering), distills the procedure including failed approaches, and persists it as a skill or rule auto-loaded next run, turning each session's discoveries into durable cross-session loop state. Source implementation",
+          "description": "2026 · GitHubKulaxyz/self-learning-skills · License: MIT Meta-skill for Claude Code, Cursor, and AGENTS.md-compatible agents that recognizes when a session has earned a hard-won golden path (or hit a dead-end worth remembering), distills the procedure including failed approaches, and persists it as a skill or rule auto-loaded next run, turning each session's discoveries into durable cross-session loop state. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2655,7 +2697,7 @@
         {
           "node_type": "item",
           "title": "🧰 AgentMemory",
-          "description": "GitHubrohitg00/agentmemory Persistent cross-session memory for coding agents: auto-capture lifecycle hooks, an MCP server, and a REST API so progress, decisions, and context survive across runs and tools. Source implementation",
+          "description": "2026 · GitHubrohitg00/agentmemory · License: Apache-2.0 Persistent cross-session memory for coding agents: auto-capture lifecycle hooks, an MCP server, and a REST API so progress, decisions, and context survive across runs and tools. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2668,7 +2710,7 @@
             "open_issues": 592,
             "owner": "rohitg00",
             "repo": "agentmemory",
-            "stars": 28509,
+            "stars": 28545,
             "topics": [
               "agentmemory",
               "agents",
@@ -2690,7 +2732,7 @@
         {
           "node_type": "item",
           "title": "🧰 TencentDB-Agent-Memory",
-          "description": "GitHubTencentCloud/TencentDB-Agent-Memory Tencent Cloud's open-source local-first long-term memory for AI agents: a four-tier progressive pipeline from capture through consolidation with zero external API dependencies. Source implementation",
+          "description": "2026 · GitHubTencentCloud/TencentDB-Agent-Memory Tencent Cloud's open-source local-first long-term memory for AI agents: a four-tier progressive pipeline from capture through consolidation with zero external API dependencies. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2699,11 +2741,11 @@
             "id": 1203558071,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T13:20:30Z",
-            "open_issues": 778,
+            "last_commit": "2026-09-17T12:47:01Z",
+            "open_issues": 761,
             "owner": "TencentCloud",
             "repo": "TencentDB-Agent-Memory",
-            "stars": 26839,
+            "stars": 26921,
             "topics": [
               "agent",
               "ai-agent",
@@ -2721,7 +2763,7 @@
         {
           "node_type": "item",
           "title": "🧰 agent-memory (Neo4j Labs)",
-          "description": "GitHubneo4j-labs/agent-memory Official Neo4j Labs graph-native memory system that stores conversations, builds knowledge graphs from agent interactions, and lets agents learn from their own reasoning traces. Source implementation",
+          "description": "2026 · GitHubneo4j-labs/agent-memory · License: Apache-2.0 Official Neo4j Labs graph-native memory system that stores conversations, builds knowledge graphs from agent interactions, and lets agents learn from their own reasoning traces. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2730,11 +2772,11 @@
             "id": 1129311820,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T14:56:00Z",
-            "open_issues": 121,
+            "last_commit": "2026-09-17T17:27:37Z",
+            "open_issues": 122,
             "owner": "neo4j-labs",
             "repo": "agent-memory",
-            "stars": 555,
+            "stars": 557,
             "topics": [
               "agent-memory",
               "context-graph",
@@ -2749,7 +2791,7 @@
         {
           "node_type": "item",
           "title": "🧰 re_gent",
-          "description": "GitHubregent-vcs/re_gent Agent-native version control layered on top of Git that records agent activity at the prompt level, so you can answer why the agent did something and undo agent work without losing your own. Source implementation",
+          "description": "2026 · GitHubregent-vcs/re_gent · License: Apache-2.0 Agent-native version control layered on top of Git that records agent activity at the prompt level, so you can answer why the agent did something and undo agent work without losing your own. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2777,7 +2819,7 @@
         {
           "node_type": "item",
           "title": "🧰 deja-vu",
-          "description": "GitHubvshulcz/deja-vu Memory layer over coding-agent session logs that mines past sessions for reusable context and recalls it into future runs. Source implementation",
+          "description": "2026 · GitHubvshulcz/deja-vu · License: MIT Memory layer over coding-agent session logs that mines past sessions for reusable context and recalls it into future runs. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2786,11 +2828,11 @@
             "id": 1300173275,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:34:03Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-17T17:04:22Z",
+            "open_issues": 39,
             "owner": "vshulcz",
             "repo": "deja-vu",
-            "stars": 822,
+            "stars": 824,
             "topics": [
               "agent-memory",
               "ai-memory",
@@ -2819,7 +2861,7 @@
         {
           "node_type": "item",
           "title": "🧰 engram",
-          "description": "GitHubGentleman-Programming/engram Agent-agnostic persistent memory system for coding agents, shipped as a single Go binary, so lessons, decisions, and context survive across sessions and tools instead of cold-starting each run. Source implementation",
+          "description": "2026 · GitHubGentleman-Programming/engram · License: MIT Agent-agnostic persistent memory system for coding agents, shipped as a single Go binary, so lessons, decisions, and context survive across sessions and tools instead of cold-starting each run. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2828,11 +2870,11 @@
             "id": 1159234860,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-16T06:04:53Z",
-            "open_issues": 99,
+            "last_commit": "2026-09-17T16:48:59Z",
+            "open_issues": 100,
             "owner": "Gentleman-Programming",
             "repo": "engram",
-            "stars": 6649,
+            "stars": 6673,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -2840,7 +2882,7 @@
         {
           "node_type": "item",
           "title": "🧰 OptMem",
-          "description": "GitHubVictorTaelin/OptMem Minimalist persistent memory for agents: an append-only LOG.txt plus a binary tree of pairwise summaries at increasing levels, exposed through three commands ( to rehydrate at session start, to record ≤280 chars, to search the full log). Source implementation",
+          "description": "2026 · GitHubVictorTaelin/OptMem Minimalist persistent memory for agents: an append-only LOG.txt plus a binary tree of pairwise summaries at increasing levels, exposed through three commands ( to rehydrate at session start, to record ≤280 chars, to search the full log). Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2853,7 +2895,7 @@
             "open_issues": 12,
             "owner": "VictorTaelin",
             "repo": "OptMem",
-            "stars": 1531,
+            "stars": 1533,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -2867,7 +2909,7 @@
         {
           "node_type": "item",
           "title": "🧰 AutoGen",
-          "description": "GitHubmicrosoft/autogen Multi-agent programming framework for conversations, tool use, and orchestration; active development has moved to the Microsoft Agent Framework. Source implementation",
+          "description": "2023 · GitHubmicrosoft/autogen · License: CC-BY-4.0 Multi-agent programming framework for conversations, tool use, and orchestration; active development has moved to the Microsoft Agent Framework. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2877,10 +2919,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-04-15T11:59:09Z",
-            "open_issues": 1071,
+            "open_issues": 1074,
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 61005,
+            "stars": 61019,
             "topics": [
               "agentic",
               "agentic-agi",
@@ -2899,7 +2941,7 @@
         {
           "node_type": "item",
           "title": "🧰 Microsoft Agent Framework",
-          "description": "GitHubmicrosoft/agent-framework Microsoft's successor to AutoGen and Semantic Kernel for building and orchestrating multi-agent workflows in Python and .NET. Source implementation",
+          "description": "2025 · GitHubmicrosoft/agent-framework · License: MIT Microsoft's successor to AutoGen and Semantic Kernel for building and orchestrating multi-agent workflows in Python and .NET. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2908,11 +2950,11 @@
             "id": 974445592,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:33:24Z",
-            "open_issues": 600,
+            "last_commit": "2026-09-17T17:15:08Z",
+            "open_issues": 602,
             "owner": "microsoft",
             "repo": "agent-framework",
-            "stars": 13548,
+            "stars": 13563,
             "topics": [
               "agent-framework",
               "agentic-ai",
@@ -2931,7 +2973,7 @@
         {
           "node_type": "item",
           "title": "🧰 LangGraph",
-          "description": "GitHublangchain-ai/langgraph Graph-based framework for controllable agent workflows, persistence, and human-in-the-loop steps. Source implementation",
+          "description": "2023 · GitHublangchain-ai/langgraph · License: MIT Graph-based framework for controllable agent workflows, persistence, and human-in-the-loop steps. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2940,11 +2982,11 @@
             "id": 676672661,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T15:16:28Z",
-            "open_issues": 790,
+            "last_commit": "2026-09-17T15:33:41Z",
+            "open_issues": 791,
             "owner": "langchain-ai",
             "repo": "langgraph",
-            "stars": 41770,
+            "stars": 41838,
             "topics": [
               "agents",
               "ai",
@@ -2971,7 +3013,7 @@
         {
           "node_type": "item",
           "title": "🧰 CrewAI",
-          "description": "GitHubcrewAIInc/crewAI Framework for multi-agent workflows organized around roles, tasks, and crews. Source implementation",
+          "description": "2023 · GitHubcrewAIInc/crewAI · License: MIT Framework for multi-agent workflows organized around roles, tasks, and crews. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2980,11 +3022,11 @@
             "id": 710601088,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:54:09Z",
-            "open_issues": 808,
+            "last_commit": "2026-09-17T17:26:06Z",
+            "open_issues": 336,
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 58658,
+            "stars": 58699,
             "topics": [
               "agents",
               "ai",
@@ -2998,7 +3040,7 @@
         {
           "node_type": "item",
           "title": "🧰 AgentKit",
-          "description": "GitHubinngest/agent-kit TypeScript toolkit for durable, event-driven agents on workflow infrastructure. Source implementation",
+          "description": "2024 · GitHubinngest/agent-kit · License: Apache-2.0 TypeScript toolkit for durable, event-driven agents on workflow infrastructure. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3011,7 +3053,7 @@
             "open_issues": 49,
             "owner": "inngest",
             "repo": "agent-kit",
-            "stars": 931,
+            "stars": 932,
             "topics": [
               "agent",
               "ai",
@@ -3025,7 +3067,7 @@
         {
           "node_type": "item",
           "title": "🧰 deepagents",
-          "description": "GitHublangchain-ai/deepagents LangChain project for deeper, longer-running agents with middleware and harness patterns. Source implementation",
+          "description": "2025 · GitHublangchain-ai/deepagents · License: MIT LangChain project for deeper, longer-running agents with middleware and harness patterns. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3034,11 +3076,11 @@
             "id": 1027384981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:33:30Z",
-            "open_issues": 202,
+            "last_commit": "2026-09-17T16:57:14Z",
+            "open_issues": 203,
             "owner": "langchain-ai",
             "repo": "deepagents",
-            "stars": 29479,
+            "stars": 29522,
             "topics": [
               "ai",
               "deepagents",
@@ -3054,8 +3096,8 @@
         },
         {
           "node_type": "item",
-          "title": "🧰 Composio Agent Orchestrator",
-          "description": "GitHubComposioHQ/agent-orchestrator Orchestrates parallel coding agents in isolated worktrees that plan tasks, fix CI failures, respond to reviews, and manage their own PR lifecycle. Source implementation",
+          "title": "🧰 Agent Orchestrator",
+          "description": "2026 · GitHubUntrivial-ai/agent-orchestrator · License: Apache-2.0 Runs and supervises teams of coding agents from planning through merge, each in an isolated worktree, fixing CI failures and responding to reviews across the PR lifecycle. Works across Claude Code, Codex, and other harnesses from one control surface. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3064,11 +3106,11 @@
             "id": 1156994049,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:33:24Z",
-            "open_issues": 705,
+            "last_commit": "2026-09-17T17:29:04Z",
+            "open_issues": 730,
             "owner": "Untrivial-ai",
             "repo": "agent-orchestrator",
-            "stars": 12107,
+            "stars": 12137,
             "topics": [
               "agent-fleet",
               "agent-ide",
@@ -3090,7 +3132,7 @@
         {
           "node_type": "item",
           "title": "🧰 Omnigent",
-          "description": "GitHubomnigent-ai/omnigent Databricks' open-source meta-harness and control plane that runs Claude Code, Codex, Cursor, and Pi under shared policies, with budget caps and human-approval gates enforced at the harness layer rather than in prompts. Source implementation",
+          "description": "2026 · GitHubomnigent-ai/omnigent · License: Apache-2.0 Databricks' open-source meta-harness and control plane that runs Claude Code, Codex, Cursor, and Pi under shared policies, with budget caps and human-approval gates enforced at the harness layer rather than in prompts. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3099,11 +3141,11 @@
             "id": 1266212515,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:35:24Z",
-            "open_issues": 1359,
+            "last_commit": "2026-09-17T17:35:53Z",
+            "open_issues": 1383,
             "owner": "omnigent-ai",
             "repo": "omnigent",
-            "stars": 10005,
+            "stars": 10042,
             "topics": [
               "agent-framework",
               "agent-governance",
@@ -3128,7 +3170,7 @@
         {
           "node_type": "item",
           "title": "🧰 Eve",
-          "description": "GitHubVercel/eve Vercel's TypeScript-native agent framework with durable execution, sandboxed compute, and OpenTelemetry tracing built in, so recurring agent work persists, replays, and is observable across runs by default. Source implementation",
+          "description": "2026 · GitHubVercel/eve · License: Apache-2.0 Vercel's TypeScript-native agent framework with durable execution, sandboxed compute, and OpenTelemetry tracing built in, so recurring agent work persists, replays, and is observable across runs by default. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3137,11 +3179,11 @@
             "id": 1271113810,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:22:54Z",
-            "open_issues": 839,
+            "last_commit": "2026-09-17T17:33:56Z",
+            "open_issues": 846,
             "owner": "vercel",
             "repo": "eve",
-            "stars": 5190,
+            "stars": 5362,
             "topics": [
               "agent",
               "framework",
@@ -3159,7 +3201,7 @@
         {
           "node_type": "item",
           "title": "🧰 Agent-as-a-Router",
-          "description": "GitHubLanceZPF/agent-as-a-router Agentic model routing for coding agents reframed as a context-action-feedback loop (ACRouter: orchestrator, verifier, memory) that learns which LLM to route each task to from execution feedback rather than frozen priors, with the CodeRouterBench benchmark across 8 frontier models. Source implementation",
+          "description": "2026 · GitHubLanceZPF/agent-as-a-router · License: MIT Agentic model routing for coding agents reframed as a context-action-feedback loop (ACRouter: orchestrator, verifier, memory) that learns which LLM to route each task to from execution feedback rather than frozen priors, with the CodeRouterBench benchmark across 8 frontier models. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3172,7 +3214,7 @@
             "open_issues": 0,
             "owner": "LanceZPF",
             "repo": "agent-as-a-router",
-            "stars": 1225,
+            "stars": 1229,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -3180,7 +3222,7 @@
         {
           "node_type": "item",
           "title": "🧰 AgentsMesh",
-          "description": "GitHubAgentsMesh/AgentsMesh Self-hosted control plane for running fleets of coding agents across your own machines, with scheduling, per-pod Git worktree isolation, Kanban work tracking, and merge-request integration. Source implementation",
+          "description": "2026 · GitHubAgentsMesh/AgentsMesh Self-hosted control plane for running fleets of coding agents across your own machines, with scheduling, per-pod Git worktree isolation, Kanban work tracking, and merge-request integration. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3213,7 +3255,7 @@
         {
           "node_type": "item",
           "title": "🧰 Bernstein",
-          "description": "GitHubsipyourdrink-ltd/bernstein Deterministic Python orchestrator that runs parallel CLI coding agents in isolated Git worktrees, gates merges on tests, lint, and type checks, and records every scheduling decision in a tamper-evident audit log. Source implementation",
+          "description": "2026 · GitHubsipyourdrink-ltd/bernstein · License: Apache-2.0 Deterministic Python orchestrator that runs parallel CLI coding agents in isolated Git worktrees, gates merges on tests, lint, and type checks, and records every scheduling decision in a tamper-evident audit log. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3222,11 +3264,11 @@
             "id": 1188762020,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:06:59Z",
-            "open_issues": 326,
+            "last_commit": "2026-09-17T15:40:10Z",
+            "open_issues": 361,
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1184,
+            "stars": 1189,
             "topics": [
               "agent-fleet",
               "agent-governance",
@@ -3255,7 +3297,7 @@
         {
           "node_type": "item",
           "title": "🧰 Aeon",
-          "description": "GitHubaaronjmars/aeon Autonomous agent framework that runs Claude Code unattended on GitHub Actions, dispatching skills on cron or reactive triggers with per-run quality scoring, persistent memory, and self-healing skill repair. Source implementation",
+          "description": "2026 · GitHubaeonfun/aeon · License: MIT Autonomous agent framework that runs Claude Code unattended on GitHub Actions, dispatching skills on cron or reactive triggers with per-run quality scoring, persistent memory, and self-healing skill repair. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3264,11 +3306,11 @@
             "id": 1172886754,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:15:40Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-17T16:06:46Z",
+            "open_issues": 2,
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 737,
+            "stars": 738,
             "topics": [
               "agent-framework",
               "agents",
@@ -3291,7 +3333,7 @@
         {
           "node_type": "item",
           "title": "🧰 h5i",
-          "description": "GitHubh5i-dev/h5i Gives each coding agent an isolated sandboxed Git worktree, dispatches one task to a team that peer-reviews each other's candidates, then replays and tests each candidate with a neutral verifier before merging the winner. Source implementation",
+          "description": "2026 · GitHubh5i-dev/h5i · License: Apache-2.0 Gives each coding agent an isolated sandboxed Git worktree, dispatches one task to a team that peer-reviews each other's candidates, then replays and tests each candidate with a neutral verifier before merging the winner. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3300,11 +3342,11 @@
             "id": 1178494429,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T08:48:40Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-17T02:58:15Z",
+            "open_issues": 9,
             "owner": "h5i-dev",
             "repo": "h5i",
-            "stars": 646,
+            "stars": 647,
             "topics": [
               "agentic-ai",
               "agentic-workflow",
@@ -3333,7 +3375,7 @@
         {
           "node_type": "item",
           "title": "🧰 babysitter",
-          "description": "GitHuba5c-ai/babysitter Harness-agnostic orchestration framework that runs agent workflows as process-as-code with mandatory enforcement stops after every step, quality-convergence loops that re-run verify-and-refine until thresholds pass, human-approval breakpoints, and an immutable event-sourced journal for deterministic replay across 12 coding harnesses. Source implementation",
+          "description": "2026 · GitHuba5c-ai/babysitter · License: MIT Harness-agnostic orchestration framework that runs agent workflows as process-as-code with mandatory enforcement stops after every step, quality-convergence loops that re-run verify-and-refine until thresholds pass, human-approval breakpoints, and an immutable event-sourced journal for deterministic replay across 12 coding harnesses. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3342,11 +3384,11 @@
             "id": 1128400700,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T11:41:48Z",
+            "last_commit": "2026-09-16T19:59:50Z",
             "open_issues": 427,
             "owner": "a5c-ai",
             "repo": "babysitter",
-            "stars": 1796,
+            "stars": 1798,
             "topics": [
               "agent-orchestration",
               "agent-skills",
@@ -3374,7 +3416,7 @@
         {
           "node_type": "item",
           "title": "🧰 claude-code-merge-queue",
-          "description": "GitHubfunador/claude-code-merge-queue Local FIFO merge queue that serializes parallel Claude Code agents landing on a shared codebase, with a machine-wide build lock and a landing gate that blocks the integration branch until a configured check command passes, wired into the WorktreeCreate hook. Source implementation",
+          "description": "2026 · GitHubfunador/claude-code-merge-queue · License: MIT Local FIFO merge queue that serializes parallel Claude Code agents landing on a shared codebase, with a machine-wide build lock and a landing gate that blocks the integration branch until a configured check command passes, wired into the WorktreeCreate hook. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3416,7 +3458,7 @@
             "open_issues": 1,
             "owner": "Nanako0129",
             "repo": "pilotfish",
-            "stars": 694,
+            "stars": 693,
             "topics": [
               "ai-agents",
               "anthropic",
@@ -3431,7 +3473,7 @@
         {
           "node_type": "item",
           "title": "🧰 fable-advisor",
-          "description": "GitHubDannyMac180/fable-advisor Claude Code plugin implementing an architect pattern where Fable 5 owns specs, decomposition, and verification while routing implementation to cheaper lanes (Grok 4.5 by default, GPT-5.6 via Codex CLI, or Sonnet/Opus fallback), with cross-vendor review and optional racing of two implementers on the same spec. Source implementation",
+          "description": "2026 · GitHubDannyMac180/fable-advisor · License: MIT Claude Code plugin implementing an architect pattern where Fable 5 owns specs, decomposition, and verification while routing implementation to cheaper lanes (Grok 4.5 by default, GPT-5.6 via Codex CLI, or Sonnet/Opus fallback), with cross-vendor review and optional racing of two implementers on the same spec. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3452,7 +3494,7 @@
         {
           "node_type": "item",
           "title": "🧰 OpenTag",
-          "description": "GitHubamplifthq/opentag Turns an existing work thread into a governed agent work loop: @-mention a coding agent from Slack, GitHub, GitLab, Linear, Lark, Telegram, or Discord, and OpenTag curates the context and manages the run. Source implementation",
+          "description": "2026 · GitHubamplifthq/opentag · License: MIT Turns an existing work thread into a governed agent work loop: @-mention a coding agent from Slack, GitHub, GitLab, Linear, Lark, Telegram, or Discord, and OpenTag curates the context and manages the run. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3465,7 +3507,7 @@
             "open_issues": 6,
             "owner": "amplifthq",
             "repo": "opentag",
-            "stars": 1383,
+            "stars": 1382,
             "topics": [
               "acp",
               "agent-client-protocol",
@@ -3484,7 +3526,7 @@
         {
           "node_type": "item",
           "title": "🧰 herdr",
-          "description": "GitHubogulcancelik/herdr Single-binary terminal multiplexer purpose-built for running fleets of coding agents (Claude Code, Codex, Copilot CLI, Cursor Agent, and 15+ others) with per-agent state tracking. Source implementation",
+          "description": "2026 · GitHubogulcancelik/herdr · License: Apache-2.0 Single-binary terminal multiplexer purpose-built for running fleets of coding agents (Claude Code, Codex, Copilot CLI, Cursor Agent, and 15+ others) with per-agent state tracking. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3493,11 +3535,11 @@
             "id": 1193909050,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:29:18Z",
-            "open_issues": 307,
+            "last_commit": "2026-09-17T15:45:11Z",
+            "open_issues": 319,
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 38966,
+            "stars": 39197,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -3524,7 +3566,7 @@
         {
           "node_type": "item",
           "title": "🧰 Orca",
-          "description": "GitHubstablyai/orca Open-source agent development environment for orchestrating a fleet of parallel coding agents (20+ backends) on your own subscriptions, with per-agent workspaces and review flow. Source implementation",
+          "description": "2026 · GitHubstablyai/orca · License: MIT Open-source agent development environment for orchestrating a fleet of parallel coding agents (20+ backends) on your own subscriptions, with per-agent workspaces and review flow. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3533,11 +3575,11 @@
             "id": 1183888342,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:32:11Z",
-            "open_issues": 6132,
+            "last_commit": "2026-09-17T17:35:18Z",
+            "open_issues": 6227,
             "owner": "stablyai",
             "repo": "orca",
-            "stars": 70117,
+            "stars": 70945,
             "topics": [
               "ade",
               "agent-ide",
@@ -3564,7 +3606,7 @@
         {
           "node_type": "item",
           "title": "🧰 Warren",
-          "description": "GitHubjayminwest/warren Control plane for coding agents that operate in isolation, styled as a Coolify for agents: deploy, monitor, and manage long-running agent workloads on your own infrastructure. Source implementation",
+          "description": "2026 · GitHubjayminwest/warren · License: MIT Control plane for coding agents that operate in isolation, styled as a Coolify for agents: deploy, monitor, and manage long-running agent workloads on your own infrastructure. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3573,11 +3615,11 @@
             "id": 1233257999,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:04:38Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-17T17:13:37Z",
+            "open_issues": 10,
             "owner": "jayminwest",
             "repo": "warren",
-            "stars": 409,
+            "stars": 411,
             "topics": [
               "agent-orchestration",
               "ai-agents",
@@ -3598,7 +3640,7 @@
         {
           "node_type": "item",
           "title": "🧰 agent-talk",
-          "description": "GitHubxhluca/agent-talk Enables coding agents to work together by giving them a shared communication channel, so parallel agents can coordinate instead of colliding. Source implementation",
+          "description": "2026 · GitHubxhluca/agent-talk · License: MIT Enables coding agents to work together by giving them a shared communication channel, so parallel agents can coordinate instead of colliding. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3619,7 +3661,7 @@
         {
           "node_type": "item",
           "title": "🧰 codex-model-routing-team",
-          "description": "GitHubzjp1997720/codex-model-routing-team Runs background Codex workers under a lead agent that verifies their output before it lands, a small-team pattern for supervised parallel delegation. Source implementation",
+          "description": "2026 · GitHubzjp1997720/codex-model-routing-team · License: MIT Runs background Codex workers under a lead agent that verifies their output before it lands, a small-team pattern for supervised parallel delegation. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3648,43 +3690,8 @@
         },
         {
           "node_type": "item",
-          "title": "🧰 Agent Orchestrator",
-          "description": "GitHubAgentWrapper/agent-orchestrator Agent IDE and orchestrator for managing fleets of coding agents, with worktree isolation and coordination so many agents can work a backlog in parallel from one control surface. Source implementation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
-            "homepage": "orchestrator.inc",
-            "id": 1156994049,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:33:24Z",
-            "open_issues": 705,
-            "owner": "Untrivial-ai",
-            "repo": "agent-orchestrator",
-            "stars": 12107,
-            "topics": [
-              "agent-fleet",
-              "agent-ide",
-              "agent-orchestration",
-              "agent-swarm",
-              "claude-code",
-              "codex-cli",
-              "git-worktrees",
-              "multi-agent",
-              "orchestration",
-              "orchestrator",
-              "parallel-agents",
-              "parallel-coding",
-              "skills"
-            ]
-          },
-          "first_seen": "2026-08-28T22:59:46.337Z"
-        },
-        {
-          "node_type": "item",
           "title": "🧰 Buzz",
-          "description": "GitHubblock/buzz Self-hostable workspace from Block where humans and AI agents share the same rooms, giving a fleet of long-running agents a common coordination surface instead of isolated one-off sessions. Source implementation",
+          "description": "2026 · GitHubblock/buzz · License: Apache-2.0 Self-hostable workspace from Block where humans and AI agents share the same rooms, giving a fleet of long-running agents a common coordination surface instead of isolated one-off sessions. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3693,11 +3700,11 @@
             "id": 1174789082,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:22:18Z",
-            "open_issues": 3578,
+            "last_commit": "2026-09-17T17:30:01Z",
+            "open_issues": 3591,
             "owner": "block",
             "repo": "buzz",
-            "stars": 33275,
+            "stars": 33664,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -3705,7 +3712,7 @@
         {
           "node_type": "item",
           "title": "🧰 open-kritt",
-          "description": "GitHubKritt-ai/open-kritt AGPL-3.0 security-research platform that decomposes vulnerability hunting into small well-defined tasks, fans them out across parallel tool-enabled agents in disposable Docker sandboxes, then closes the loop with post-processing verification scripts, proof-of-concept generation, de-duplication, and severity ranking via reusable workflow playbooks. Source implementation",
+          "description": "2026 · GitHubKritt-ai/open-kritt · License: AGPL-3.0 AGPL-3.0 security-research platform that decomposes vulnerability hunting into small well-defined tasks, fans them out across parallel tool-enabled agents in disposable Docker sandboxes, then closes the loop with post-processing verification scripts, proof-of-concept generation, de-duplication, and severity ranking via reusable workflow playbooks. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3718,7 +3725,7 @@
             "open_issues": 7,
             "owner": "Kritt-ai",
             "repo": "open-kritt",
-            "stars": 2138,
+            "stars": 2144,
             "topics": [
               "ai",
               "ai-agents",
@@ -3742,7 +3749,7 @@
         {
           "node_type": "item",
           "title": "🧰 BossConsole",
-          "description": "GitHubrisa-labs-inc/BossConsole Native JVM operator's console (Kotlin Multiplatform, explicitly not Electron) that runs Claude Code, Codex, Gemini CLI, and OpenCode side-by-side with a shared browser, terminal, editor, secrets manager, and ~100 MCP tools, adding per-tool RBAC governance, kill-switches, E2E-encrypted session sharing, and daemonized persistent sessions for supervised multi-agent operation. Source implementation",
+          "description": "2026 · GitHubrisa-labs-inc/BossConsole · License: Apache-2.0 Native JVM operator's console (Kotlin Multiplatform, explicitly not Electron) that runs Claude Code, Codex, Gemini CLI, and OpenCode side-by-side with a shared browser, terminal, editor, secrets manager, and ~100 MCP tools, adding per-tool RBAC governance, kill-switches, E2E-encrypted session sharing, and daemonized persistent sessions for supervised multi-agent operation. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3751,11 +3758,11 @@
             "id": 1307136587,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:35:23Z",
-            "open_issues": 201,
+            "last_commit": "2026-09-17T12:55:47Z",
+            "open_issues": 223,
             "owner": "risa-labs-inc",
             "repo": "BossConsole",
-            "stars": 701,
+            "stars": 730,
             "topics": [
               "agent-harness",
               "ai-agents",
@@ -3783,7 +3790,7 @@
         {
           "node_type": "item",
           "title": "🧰 Fractal",
-          "description": "GitHubplasma-ai/fractal Arranges autonomous agent loops into a tree: each node iterates toward a goal in its own Git worktree and spawns child loop-nodes for separable subtasks, bounded by hard caps on iterations, depth, children, cost, and time, with run metadata in a local SQLite database and a live TUI for operator steering. Source implementation",
+          "description": "2026 · GitHubplasma-ai/fractal · License: Apache-2.0 Arranges autonomous agent loops into a tree: each node iterates toward a goal in its own Git worktree and spawns child loop-nodes for separable subtasks, bounded by hard caps on iterations, depth, children, cost, and time, with run metadata in a local SQLite database and a live TUI for operator steering. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3792,11 +3799,11 @@
             "id": 1285643489,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T07:21:54Z",
+            "last_commit": "2026-09-17T17:15:41Z",
             "open_issues": 5,
             "owner": "plasma-ai",
             "repo": "fractal",
-            "stars": 727,
+            "stars": 728,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -3804,7 +3811,7 @@
         {
           "node_type": "item",
           "title": "🧰 AgentENV",
-          "description": "GitHubkvcache-ai/AgentENV Open-sourced 2026-07-27 by the Kimi/kvcache-ai team as the environment substrate behind Kimi K3's agentic RL training. Source implementation",
+          "description": "2026 · GitHubkvcache-ai/AgentENV · License: MIT Open-sourced 2026-07-27 by the Kimi/kvcache-ai team as the environment substrate behind Kimi K3's agentic RL training. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3813,11 +3820,11 @@
             "id": 1309451980,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-16T06:02:19Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-17T10:58:12Z",
+            "open_issues": 64,
             "owner": "kvcache-ai",
             "repo": "AgentENV",
-            "stars": 3477,
+            "stars": 3481,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -3825,7 +3832,7 @@
         {
           "node_type": "item",
           "title": "🧰 Ruflo",
-          "description": "GitHubruvnet/ruflo Agent meta-harness for Claude Code and Codex, built on the premise that an agent is a model plus a harness: it supplies tools, memory, loops, sandboxes, and controls so agents self-organize into swarms, learn across tasks, and persist state between runs. Formerly Claude Flow. Source implementation",
+          "description": "2025 · GitHubruvnet/ruflo · License: MIT Agent meta-harness for Claude Code and Codex, built on the premise that an agent is a model plus a harness: it supplies tools, memory, loops, sandboxes, and controls so agents self-organize into swarms, learn across tasks, and persist state between runs. Formerly Claude Flow. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3834,11 +3841,11 @@
             "id": 995029641,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:46:13Z",
-            "open_issues": 971,
+            "last_commit": "2026-09-17T06:26:22Z",
+            "open_issues": 973,
             "owner": "ruvnet",
             "repo": "ruflo",
-            "stars": 72619,
+            "stars": 72704,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -3867,7 +3874,7 @@
         {
           "node_type": "item",
           "title": "🧰 Agent Manager",
-          "description": "GitHubYoanWai/agent-manager Terminal UI for operating a small agent fleet, surfaced on HN 2026-07-30. Each agent runs in an isolated tmux session that persists after the manager exits, and dead sessions revive with conversation history intact, so the fleet outlives the operator's terminal. Source implementation",
+          "description": "2026 · GitHubYoanWai/agent-manager · License: Apache-2.0 Terminal UI for operating a small agent fleet, surfaced on HN 2026-07-30. Each agent runs in an isolated tmux session that persists after the manager exits, and dead sessions revive with conversation history intact, so the fleet outlives the operator's terminal. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3876,11 +3883,11 @@
             "id": 1301824521,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T10:27:03Z",
+            "last_commit": "2026-09-17T11:50:21Z",
             "open_issues": 47,
             "owner": "YoanWai",
             "repo": "agent-manager",
-            "stars": 470,
+            "stars": 473,
             "topics": [
               "ai-agents",
               "bubbletea",
@@ -3909,7 +3916,7 @@
         {
           "node_type": "item",
           "title": "🧰 TrueDeck",
-          "description": "GitHubWutIsHummus/TrueDeck Terminal-first workbench that puts Grok, Codex, Cursor, Claude, and Gemini in split panes on one codebase, each keeping its real TUI rather than being wrapped in a chat webview. Source implementation",
+          "description": "2026 · GitHubWutIsHummus/TrueDeck · License: MIT Terminal-first workbench that puts Grok, Codex, Cursor, Claude, and Gemini in split panes on one codebase, each keeping its real TUI rather than being wrapped in a chat webview. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3930,7 +3937,7 @@
         {
           "node_type": "item",
           "title": "🧰 qm",
-          "description": "GitHubyc-software/qm Y Combinator's open-source agent platform for whole organizations rather than one operator. Each person and each Slack room gets its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox, so background work keeps running \"while nobody's watching\" without workspaces bleeding into each other. Source implementation",
+          "description": "2026 · GitHubyc-software/qm · License: MIT Y Combinator's open-source agent platform for whole organizations rather than one operator. Each person and each Slack room gets its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox, so background work keeps running \"while nobody's watching\" without workspaces bleeding into each other. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3939,11 +3946,11 @@
             "id": 1316527318,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:22:07Z",
-            "open_issues": 510,
+            "last_commit": "2026-09-17T17:28:14Z",
+            "open_issues": 505,
             "owner": "yc-software",
             "repo": "qm",
-            "stars": 15097,
+            "stars": 15129,
             "topics": [
               "ai",
               "assistant",
@@ -3956,7 +3963,7 @@
         {
           "node_type": "item",
           "title": "🧰 sol-advisor",
-          "description": "GitHubDannyMac180/sol-advisor Codex-native orchestration plugin that splits an agent run into an architect session that owns requirements, specs and acceptance, and bounded implementation lanes (native Terra lane, or an opt-in Luna lane using visible Codex app tasks) that only execute. Source implementation",
+          "description": "2026 · GitHubDannyMac180/sol-advisor · License: MIT Codex-native orchestration plugin that splits an agent run into an architect session that owns requirements, specs and acceptance, and bounded implementation lanes (native Terra lane, or an opt-in Luna lane using visible Codex app tasks) that only execute. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3969,7 +3976,7 @@
             "open_issues": 27,
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2591,
+            "stars": 2592,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -3983,7 +3990,7 @@
         {
           "node_type": "item",
           "title": "🧰 Terminal-Bench repository",
-          "description": "GitHubharbor-framework/terminal-bench Open-source benchmark and harness for hard terminal tasks. Source implementation",
+          "description": "2026 · GitHubharbor-framework/terminal-bench · License: Apache-2.0 Open-source benchmark and harness for hard terminal tasks. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3992,11 +3999,11 @@
             "id": 1141514919,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T20:50:57Z",
-            "open_issues": 289,
+            "last_commit": "2026-09-17T16:20:43Z",
+            "open_issues": 291,
             "owner": "harbor-framework",
             "repo": "terminal-bench",
-            "stars": 712,
+            "stars": 722,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -4004,7 +4011,7 @@
         {
           "node_type": "item",
           "title": "🧪 Do Codex Skills Save Tokens? Six Controlled GPT-5.6-sol Runs",
-          "description": "GitHubPhelan164/codex-howto Asks whether a repository workflow skill earns its context cost, and finds the answer reverses by task size: the no-skill control was cheapest on a small specified backend fix, while a lean engineering-loop skill spent 54% fewer reported tokens on a larger build. Two task classes and six runs, with the measurements published. Benchmark or evaluation",
+          "description": "2026 · GitHubPhelan164/codex-howto · License: MIT Asks whether a repository workflow skill earns its context cost, and finds the answer reverses by task size: the no-skill control was cheapest on a small specified backend fix, while a lean engineering-loop skill spent 54% fewer reported tokens on a larger build. Two task classes and six runs, with the measurements published. Benchmark or evaluation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4052,7 +4059,7 @@
         {
           "node_type": "item",
           "title": "🧰 rocketplaneIO",
-          "description": "GitHubolemeyer/rocketplaneIO Self-hosted AI SRE for Kubernetes whose copilot investigates autonomously via eBPF traces, logs, and live service maps, but can only act through named, reversible, risk-graded operations. Source implementation",
+          "description": "2026 · GitHubolemeyer/rocketplaneIO · License: Apache-2.0 Self-hosted AI SRE for Kubernetes whose copilot investigates autonomously via eBPF traces, logs, and live service maps, but can only act through named, reversible, risk-graded operations. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4090,7 +4097,7 @@
         {
           "node_type": "item",
           "title": "🧰 claude-thermos",
-          "description": "GitHubizeigerman/claude-thermos Keeps a Claude Code session's prompt cache warm while the main agent waits on long-running subagents, so an orchestrator that blocks for more than a few minutes does not silently pay to rebuild its cache on every resume. Source implementation",
+          "description": "2026 · GitHubizeigerman/claude-thermos · License: MIT Keeps a Claude Code session's prompt cache warm while the main agent waits on long-running subagents, so an orchestrator that blocks for more than a few minutes does not silently pay to rebuild its cache on every resume. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4103,7 +4110,7 @@
             "open_issues": 0,
             "owner": "izeigerman",
             "repo": "claude-thermos",
-            "stars": 220,
+            "stars": 223,
             "topics": [
               "ai-agents",
               "claude-code"
@@ -4114,7 +4121,7 @@
         {
           "node_type": "item",
           "title": "🧰 Worktrunk",
-          "description": "GitHubmax-sixty/worktrunk CLI for Git worktree management built for running several coding agents in parallel, giving each agent an isolated checkout so concurrent work does not collide in a shared working directory. Source implementation",
+          "description": "2025 · GitHubmax-sixty/worktrunk CLI for Git worktree management built for running several coding agents in parallel, giving each agent an isolated checkout so concurrent work does not collide in a shared working directory. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4123,11 +4130,11 @@
             "id": 1078528927,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T17:16:35Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-17T16:15:35Z",
+            "open_issues": 41,
             "owner": "max-sixty",
             "repo": "worktrunk",
-            "stars": 7901,
+            "stars": 7991,
             "topics": [
               "agents",
               "claude-code",
@@ -4142,7 +4149,7 @@
         {
           "node_type": "item",
           "title": "🧰 SandBase Harness",
-          "description": "GitHubsandbaseai/sandbase-harness Local-first agent runtime that persists sessions and resumable event streams in SQLite, runs tools in selectable local, Docker, Kubernetes, or self-hosted sandboxes, and wraps them in credential vaults, permission policies, approvals, and audit. Ships an MCP bridge and a console for inspecting and replaying a run. Apache-2.0. Source implementation",
+          "description": "2026 · GitHubsandbaseai/sandbase-harness · License: Apache-2.0 Local-first agent runtime that persists sessions and resumable event streams in SQLite, runs tools in selectable local, Docker, Kubernetes, or self-hosted sandboxes, and wraps them in credential vaults, permission policies, approvals, and audit. Ships an MCP bridge and a console for inspecting and replaying a run. Apache-2.0. Source implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4190,7 +4197,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome Harness Engineering by ai-boost",
-          "description": "GitHubai-boost/awesome-harness-engineering Comprehensive list for the agent harness layer that Loop Engineering builds on. Discovery index",
+          "description": "2026 · GitHubai-boost/awesome-harness-engineering Comprehensive list for the agent harness layer that Loop Engineering builds on. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4199,11 +4206,11 @@
             "id": 1195371847,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T07:48:57Z",
+            "last_commit": "2026-09-17T07:58:59Z",
             "open_issues": 201,
             "owner": "ai-boost",
             "repo": "awesome-harness-engineering",
-            "stars": 4274,
+            "stars": 4308,
             "topics": [
               "agent-harness",
               "agent-memory",
@@ -4231,10 +4238,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-08-19T07:27:55Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "walkinglabs",
             "repo": "awesome-harness-engineering",
-            "stars": 4097,
+            "stars": 4098,
             "topics": [
               "agemt",
               "agentic",
@@ -4252,7 +4259,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome Agent Harness",
-          "description": "GitHubAutoJunjie/awesome-agent-harness Curated tools and resources for environments, constraints, and feedback around coding agents. Discovery index",
+          "description": "2026 · GitHubAutoJunjie/awesome-agent-harness Curated tools and resources for environments, constraints, and feedback around coding agents. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4265,7 +4272,7 @@
             "open_issues": 40,
             "owner": "AutoJunjie",
             "repo": "awesome-agent-harness",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "agent-harness",
               "agent-orchestration",
@@ -4284,7 +4291,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome Context Engineering",
-          "description": "GitHubMeirtz/Awesome-Context-Engineering Survey-style list for context engineering across LLMs and agents. Discovery index",
+          "description": "2025 · GitHubMeirtz/Awesome-Context-Engineering · License: MIT Survey-style list for context engineering across LLMs and agents. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4314,7 +4321,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome Prompt Engineering",
-          "description": "GitHubpromptslab/Awesome-Prompt-Engineering Classic adjacent list for prompt techniques and prompting resources. Discovery index",
+          "description": "2023 · GitHubpromptslab/Awesome-Prompt-Engineering · License: Apache-2.0 Classic adjacent list for prompt techniques and prompting resources. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4323,11 +4330,11 @@
             "id": 599716050,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T11:18:46Z",
+            "last_commit": "2026-09-17T11:26:49Z",
             "open_issues": 115,
             "owner": "promptslab",
             "repo": "Awesome-Prompt-Engineering",
-            "stars": 6334,
+            "stars": 6337,
             "topics": [
               "chatgpt",
               "chatgpt-api",
@@ -4355,7 +4362,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome LLM Agents",
-          "description": "GitHubkaushikb11/awesome-llm-agents General list of LLM agent papers, frameworks, and applications. Discovery index",
+          "description": "2023 · GitHubkaushikb11/awesome-llm-agents · License: CC0-1.0 General list of LLM agent papers, frameworks, and applications. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4365,10 +4372,10 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-09-13T04:30:42Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "kaushikb11",
             "repo": "awesome-llm-agents",
-            "stars": 1584,
+            "stars": 1587,
             "topics": [
               "agents",
               "langchain",
@@ -4380,7 +4387,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome AI Agents",
-          "description": "GitHube2b-dev/awesome-ai-agents Broad AI agent ecosystem map. Discovery index",
+          "description": "2023 · GitHube2b-dev/awesome-ai-agents Broad AI agent ecosystem map. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4390,10 +4397,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T18:52:45Z",
-            "open_issues": 1037,
+            "open_issues": 1041,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 30038,
+            "stars": 30054,
             "topics": [
               "agent",
               "ai",
@@ -4415,7 +4422,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome CLI Coding Agents",
-          "description": "GitHubbradAGI/awesome-cli-coding-agents Directory of terminal-native coding agents, parallel runners, autonomous loops, and the harnesses that orchestrate them. Discovery index",
+          "description": "2026 · GitHubbradAGI/awesome-cli-coding-agents Directory of terminal-native coding agents, parallel runners, autonomous loops, and the harnesses that orchestrate them. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4425,10 +4432,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-14T14:36:23Z",
-            "open_issues": 19,
+            "open_issues": 22,
             "owner": "bradAGI",
             "repo": "awesome-cli-coding-agents",
-            "stars": 1223,
+            "stars": 1231,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -4436,7 +4443,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome Self-Evolving Agents",
-          "description": "GitHubXMUDeepLIT/Awesome-Self-Evolving-Agents Survey-style list of agents that improve themselves over repeated runs, an adjacent angle on long-running loops with memory and verification. Discovery index",
+          "description": "2026 · GitHubXMUDeepLIT/Awesome-Self-Evolving-Agents Survey-style list of agents that improve themselves over repeated runs, an adjacent angle on long-running loops with memory and verification. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4449,7 +4456,7 @@
             "open_issues": 2,
             "owner": "XMUDeepLIT",
             "repo": "Awesome-Self-Evolving-Agents",
-            "stars": 435,
+            "stars": 438,
             "topics": [
               "agent",
               "agent-skills",
@@ -4466,7 +4473,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome AI Agent Papers",
-          "description": "GitHubVoltAgent/awesome-ai-agent-papers Curated 2026 research collection across agent engineering, memory, evaluation, workflows, and autonomous systems, a paper-level feeder for loop-design foundations. Discovery index",
+          "description": "2026 · GitHubVoltAgent/awesome-ai-agent-papers · License: MIT Curated 2026 research collection across agent engineering, memory, evaluation, workflows, and autonomous systems, a paper-level feeder for loop-design foundations. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4479,7 +4486,7 @@
             "open_issues": 0,
             "owner": "VoltAgent",
             "repo": "awesome-ai-agent-papers",
-            "stars": 1788,
+            "stars": 1790,
             "topics": [
               "ai-agents",
               "awesome",
@@ -4496,7 +4503,7 @@
         {
           "node_type": "item",
           "title": "🧭 awesome-ralph",
-          "description": "GitHubsnwfdhmp/awesome-ralph Curated directory for the Ralph technique, collecting official resources, implementations, playbooks, tutorials, and community channels for running coding agents in automated loops until specifications are fulfilled. Discovery index",
+          "description": "2026 · GitHubsnwfdhmp/awesome-ralph Curated directory for the Ralph technique, collecting official resources, implementations, playbooks, tutorials, and community channels for running coding agents in automated loops until specifications are fulfilled. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4525,7 +4532,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome Agent Loops",
-          "description": "GitHubserenakeyitan/awesome-agent-loops Curated collection of /loop, /goal, and /schedule commands for Claude Code and Codex sourced from practitioner posts, organized around trigger, condition, and skill structure. Discovery index",
+          "description": "2026 · GitHubserenakeyitan/awesome-agent-loops · License: CC-BY-4.0 Curated collection of /loop, /goal, and /schedule commands for Claude Code and Codex sourced from practitioner posts, organized around trigger, condition, and skill structure. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4553,7 +4560,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome Loop Models",
-          "description": "GitHubhuskydoge/Awesome-Loop-Models Dedicated catalog of architectures that reuse a learned layer, block, module, or operator within one forward process; use it for deeper model-level coverage while this repository focuses on the bridge to operational agent loops. Discovery index",
+          "description": "2026 · GitHubhuskydoge/Awesome-Loop-Models · License: MIT Dedicated catalog of architectures that reuse a learned layer, block, module, or operator within one forward process; use it for deeper model-level coverage while this repository focuses on the bridge to operational agent loops. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4562,11 +4569,11 @@
             "id": 1219975226,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T10:02:28Z",
+            "last_commit": "2026-09-17T10:09:23Z",
             "open_issues": 0,
             "owner": "huskydoge",
             "repo": "Awesome-Loop-Models",
-            "stars": 390,
+            "stars": 398,
             "topics": [
               "attractors",
               "awesome-list",
@@ -4596,7 +4603,7 @@
             "open_issues": 1,
             "owner": "lopopolo",
             "repo": "harness-engineering",
-            "stars": 2689,
+            "stars": 2690,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:46.337Z"
@@ -4604,7 +4611,7 @@
         {
           "node_type": "item",
           "title": "🧭 awesome-agent-harness",
-          "description": "GitHubPicrew/awesome-agent-harness Companion index scoped to the harness layer itself, collecting projects, tools, benchmarks, and practical guides rather than the operational loop built around them. Discovery index",
+          "description": "2026 · GitHubPicrew/awesome-agent-harness Companion index scoped to the harness layer itself, collecting projects, tools, benchmarks, and practical guides rather than the operational loop built around them. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4614,10 +4621,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-14T15:59:07Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "Picrew",
             "repo": "awesome-agent-harness",
-            "stars": 1765,
+            "stars": 1768,
             "topics": [
               "agent-harness",
               "context-engineering",
@@ -4629,7 +4636,7 @@
         {
           "node_type": "item",
           "title": "🧭 Awesome-Memory-for-Agents",
-          "description": "GitHubTsinghuaC3I/Awesome-Memory-for-Agents Paper collection scoped to memory for language agents, useful as a companion index when the memory layer specifically is the part being designed. Discovery index",
+          "description": "2025 · GitHubTsinghuaC3I/Awesome-Memory-for-Agents · License: MIT Paper collection scoped to memory for language agents, useful as a companion index when the memory layer specifically is the part being designed. Discovery index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4639,7 +4646,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-15T12:32:47Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "TsinghuaC3I",
             "repo": "Awesome-Memory-for-Agents",
             "stars": 655,
@@ -4656,17 +4663,17 @@
         {
           "node_type": "item",
           "title": "🧾 Release notes",
-          "description": "GitHub Releases Versioned changelog of new resources, patterns, and repository changes. Reusable artifact",
+          "description": "2026 · GitHub ReleasesLicense: CC0-1.0 Versioned changelog of new resources, patterns, and repository changes. Reusable artifact",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "🔁 Build reliable recurring AI-agent systems: 1007 resources, 22 operational patterns, 22 loop contracts, 8 runtime starters, an interactive atlas, and a structured dataset.",
+            "description": "🔁 Build reliable recurring AI-agent systems: 1017 resources, 22 operational patterns, 22 loop contracts, 8 runtime starters, an interactive atlas, and a structured dataset.",
             "homepage": "https://chaoyue0307.github.io/awesome-loop-engineering/",
             "id": 1264170342,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-08T16:31:53Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-17T15:09:51Z",
+            "open_issues": 3,
             "owner": "ChaoYue0307",
             "repo": "awesome-loop-engineering",
             "stars": 57,
@@ -4698,17 +4705,17 @@
         {
           "node_type": "item",
           "title": "🔁 Show your Loop Engineering patterns",
-          "description": "GitHub Discussions Community discussion for real or anonymized loop examples. Operational pattern",
+          "description": "2026 · GitHub DiscussionsLicense: CC0-1.0 Community discussion for real or anonymized loop examples. Operational pattern",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "🔁 Build reliable recurring AI-agent systems: 1007 resources, 22 operational patterns, 22 loop contracts, 8 runtime starters, an interactive atlas, and a structured dataset.",
+            "description": "🔁 Build reliable recurring AI-agent systems: 1017 resources, 22 operational patterns, 22 loop contracts, 8 runtime starters, an interactive atlas, and a structured dataset.",
             "homepage": "https://chaoyue0307.github.io/awesome-loop-engineering/",
             "id": 1264170342,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-08T16:31:53Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-17T15:09:51Z",
+            "open_issues": 3,
             "owner": "ChaoYue0307",
             "repo": "awesome-loop-engineering",
             "stars": 57,
@@ -4742,16 +4749,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:35:57.228Z",
+    "last_updated": "2026-09-17T17:35:54.291Z",
     "original_repository_info": {
       "archived": false,
-      "description": "🔁 Build reliable recurring AI-agent systems: 1007 resources, 22 operational patterns, 22 loop contracts, 8 runtime starters, an interactive atlas, and a structured dataset.",
+      "description": "🔁 Build reliable recurring AI-agent systems: 1017 resources, 22 operational patterns, 22 loop contracts, 8 runtime starters, an interactive atlas, and a structured dataset.",
       "homepage": "https://chaoyue0307.github.io/awesome-loop-engineering/",
       "id": 1264170342,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-08T16:31:53Z",
-      "open_issues": 4,
+      "last_commit": "2026-09-17T15:09:51Z",
+      "open_issues": 3,
       "owner": "ChaoYue0307",
       "repo": "awesome-loop-engineering",
       "stars": 57,
@@ -4778,7 +4785,7 @@
         "multi-agent-systems"
       ]
     },
-    "original_repository_sha": "ca9215b656a5195ed813372ac82134910e4a2e3b",
+    "original_repository_sha": "4a8052c319d6d948f76c0ddad89d0e69e8ff79a5",
     "enhanced_repository": "enhansome/enhansome-loop-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome loop engineering with stars"
